@@ -1,0 +1,3595 @@
+txc dumper v2, dump date: 3.06.2013
+C:\PROGRAMY\wamp\www\uc_toolz\clumps\
+
+header pos no: 2080
+unk1:          0
+
+=== hIMG 0 ===
+
+addr: 0x1bf3b2
+img type: 0xFFFF (indexed)
+out name: 0_U0_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 219 (0b11011011),
+pal size (bytes): 438 (0x1b6),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 219
+unexpected colors no: 0
+
+=== hIMG 1 ===
+
+addr: 0x4104
+img type: 0xFFFF (indexed)
+out name: 0_U1_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 75 (0b1001011),
+pal size (bytes): 150 (0x96),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 75
+unexpected colors no: 0
+
+=== hIMG 2 ===
+
+addr: 0x3e1420
+img type: 0xFFFF (indexed)
+out name: 0_U2_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1003 (0b1111101011),
+pal size (bytes): 2006 (0x7d6),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 1003
+unexpected colors no: 0
+
+=== hIMG 3 ===
+
+addr: 0x4c8460
+img type: 0xFFFF (indexed)
+out name: 0_U3_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 330 (0b101001010),
+pal size (bytes): 660 (0x294),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 330
+unexpected colors no: 0
+
+=== hIMG 4 ===
+
+addr: 0x3df75e
+img type: 0xFFFF (indexed)
+out name: 0_U4_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 984 (0b1111011000),
+pal size (bytes): 1968 (0x7b0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 984
+unexpected colors no: 0
+
+=== hIMG 5 ===
+
+addr: 0x1cf06e
+img type: 0xFFFF (indexed)
+out name: 0_U5_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 321 (0b101000001),
+pal size (bytes): 642 (0x282),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 321
+unexpected colors no: 0
+
+=== hIMG 6 ===
+
+addr: 0x4d2b58
+img type: 0xFFFF (indexed)
+out name: 0_U6_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 379 (0b101111011),
+pal size (bytes): 758 (0x2f6),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 379
+unexpected colors no: 0
+
+=== hIMG 7 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 8 ===
+
+addr: 0x436cc4
+img type: 0xFFFF (indexed)
+out name: 0_U0_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 829 (0b1100111101),
+pal size (bytes): 1658 (0x67a),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 829
+unexpected colors no: 0
+
+=== hIMG 9 ===
+
+addr: 0x4350ec
+img type: 0xFFFF (indexed)
+out name: 0_U1_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 719 (0b1011001111),
+pal size (bytes): 1438 (0x59e),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 719
+unexpected colors no: 0
+
+=== hIMG 10 ===
+
+addr: 0x438a6c
+img type: 0xFFFF (indexed)
+out name: 0_U2_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 646 (0b1010000110),
+pal size (bytes): 1292 (0x50c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 646
+unexpected colors no: 0
+
+=== hIMG 11 ===
+
+addr: 0x1d0a3e
+img type: 0xFFFF (indexed)
+out name: 0_U3_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 286 (0b100011110),
+pal size (bytes): 572 (0x23c),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 286
+unexpected colors no: 0
+
+=== hIMG 12 ===
+
+addr: 0x50616c
+img type: 0xFFFF (indexed)
+out name: 0_U4_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 324 (0b101000100),
+pal size (bytes): 648 (0x288),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 324
+unexpected colors no: 0
+
+=== hIMG 13 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 14 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 15 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 16 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 17 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 18 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 19 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 20 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 21 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 22 ===
+
+addr: 0x4950e4
+img type: 0xFFFF (indexed)
+out name: 0_U6_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 785 (0b1100010001),
+pal size (bytes): 1570 (0x622),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 785
+unexpected colors no: 0
+
+=== hIMG 23 ===
+
+addr: 0x492e3e
+img type: 0xFFFF (indexed)
+out name: 0_U7_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 892 (0b1101111100),
+pal size (bytes): 1784 (0x6f8),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 892
+unexpected colors no: 0
+
+=== hIMG 24 ===
+
+addr: 0x46f0e0
+img type: 0xFFFF (indexed)
+out name: 0_U0_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 621 (0b1001101101),
+pal size (bytes): 1242 (0x4da),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 621
+unexpected colors no: 0
+
+=== hIMG 25 ===
+
+addr: 0x470b00
+img type: 0xFFFF (indexed)
+out name: 0_U1_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 600 (0b1001011000),
+pal size (bytes): 1200 (0x4b0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 600
+unexpected colors no: 0
+
+=== hIMG 26 ===
+
+addr: 0x4ed16e
+img type: 0xFFFF (indexed)
+out name: 0_U2_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 379 (0b101111011),
+pal size (bytes): 758 (0x2f6),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 379
+unexpected colors no: 0
+
+=== hIMG 27 ===
+
+addr: 0x4ee66e
+img type: 0xFFFF (indexed)
+out name: 0_U3_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 378 (0b101111010),
+pal size (bytes): 756 (0x2f4),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 378
+unexpected colors no: 0
+
+=== hIMG 28 ===
+
+addr: 0x4d0952
+img type: 0xFFFF (indexed)
+out name: 0_U4_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 579 (0b1001000011),
+pal size (bytes): 1158 (0x486),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 579
+unexpected colors no: 0
+
+=== hIMG 29 ===
+
+addr: 0x4093f8
+img type: 0xFFFF (indexed)
+out name: 0_U5_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 881 (0b1101110001),
+pal size (bytes): 1762 (0x6e2),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 881
+unexpected colors no: 0
+
+=== hIMG 30 ===
+
+addr: 0x4cedec
+img type: 0xFFFF (indexed)
+out name: 0_U6_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 650 (0b1010001010),
+pal size (bytes): 1300 (0x514),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 650
+unexpected colors no: 0
+
+=== hIMG 31 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 32 ===
+
+addr: 0x469d1c
+img type: 0xFFFF (indexed)
+out name: 0_U0_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 704 (0b1011000000),
+pal size (bytes): 1408 (0x580),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 704
+unexpected colors no: 0
+
+=== hIMG 33 ===
+
+addr: 0x46487c
+img type: 0xFFFF (indexed)
+out name: 0_U1_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 594 (0b1001010010),
+pal size (bytes): 1188 (0x4a4),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 594
+unexpected colors no: 0
+
+=== hIMG 34 ===
+
+addr: 0x43a5b2
+img type: 0xFFFF (indexed)
+out name: 0_U2_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 599 (0b1001010111),
+pal size (bytes): 1198 (0x4ae),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 599
+unexpected colors no: 0
+
+=== hIMG 35 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 36 ===
+
+addr: 0x4eae82
+img type: 0xFFFF (indexed)
+out name: 0_U4_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 232 (0b11101000),
+pal size (bytes): 464 (0x1d0),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 232
+unexpected colors no: 0
+
+=== hIMG 37 ===
+
+addr: 0x4e99da
+img type: 0xFFFF (indexed)
+out name: 0_U5_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 335 (0b101001111),
+pal size (bytes): 670 (0x29e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 335
+unexpected colors no: 0
+
+=== hIMG 38 ===
+
+addr: 0x4e78e2
+img type: 0xFFFF (indexed)
+out name: 0_U6_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 707 (0b1011000011),
+pal size (bytes): 1414 (0x586),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 707
+unexpected colors no: 0
+
+=== hIMG 39 ===
+
+addr: 0x4e46b0
+img type: 0xFFFF (indexed)
+out name: 0_U7_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 592 (0b1001010000),
+pal size (bytes): 1184 (0x4a0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 592
+unexpected colors no: 0
+
+=== hIMG 40 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 41 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 42 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 43 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 44 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 45 ===
+
+addr: 0x46806e
+img type: 0xFFFF (indexed)
+out name: 0_U5_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 622 (0b1001101110),
+pal size (bytes): 1244 (0x4dc),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 622
+unexpected colors no: 0
+
+=== hIMG 46 ===
+
+addr: 0x46634e
+img type: 0xFFFF (indexed)
+out name: 0_U6_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 679 (0b1010100111),
+pal size (bytes): 1358 (0x54e),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 679
+unexpected colors no: 0
+
+=== hIMG 47 ===
+
+addr: 0x462daa
+img type: 0xFFFF (indexed)
+out name: 0_U7_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 704 (0b1011000000),
+pal size (bytes): 1408 (0x580),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 704
+unexpected colors no: 0
+
+=== hIMG 48 ===
+
+addr: 0x461360
+img type: 0xFFFF (indexed)
+out name: 0_U0_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 636 (0b1001111100),
+pal size (bytes): 1272 (0x4f8),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 636
+unexpected colors no: 0
+
+=== hIMG 49 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 50 ===
+
+addr: 0x48dd1e
+img type: 0xFFFF (indexed)
+out name: 0_U2_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 627 (0b1001110011),
+pal size (bytes): 1254 (0x4e6),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 627
+unexpected colors no: 0
+
+=== hIMG 51 ===
+
+addr: 0x48f82a
+img type: 0xFFFF (indexed)
+out name: 0_U3_V6
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 55 (0b110111),
+pal size (bytes): 110 (0x6e),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 55
+unexpected colors no: 0
+
+=== hIMG 52 ===
+
+addr: 0x452bac
+img type: 0xFFFF (indexed)
+out name: 0_U4_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 948 (0b1110110100),
+pal size (bytes): 1896 (0x768),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 948
+unexpected colors no: 0
+
+=== hIMG 53 ===
+
+addr: 0x450ba6
+img type: 0x0000 (HI-COLOR)
+out name: 0_U5_V6
+width: 64
+height: 64
+expected data size: 8192(0x2000)
+
+=== hIMG 54 ===
+
+addr: 0x49bbf8
+img type: 0xFFFF (indexed)
+out name: 0_U6_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1265 (0b10011110001),
+pal size (bytes): 2530 (0x9e2),
+bpp: 11,
+data size: 5632 (0x1600)
+read step: 11 × int(2)
+px per read: 16
+expected colors no: 1265
+unexpected colors no: 0
+
+=== hIMG 55 ===
+
+addr: 0x44eba0
+img type: 0x0000 (HI-COLOR)
+out name: 0_U7_V6
+width: 64
+height: 64
+expected data size: 8192(0x2000)
+
+=== hIMG 56 ===
+
+addr: 0x44cd46
+img type: 0xFFFF (indexed)
+out name: 0_U0_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1064 (0b10000101000),
+pal size (bytes): 2128 (0x850),
+bpp: 11,
+data size: 5632 (0x1600)
+read step: 11 × int(2)
+px per read: 16
+expected colors no: 1064
+unexpected colors no: 0
+
+=== hIMG 57 ===
+
+addr: 0x44ad40
+img type: 0x0000 (HI-COLOR)
+out name: 0_U1_V7
+width: 64
+height: 64
+expected data size: 8192(0x2000)
+
+=== hIMG 58 ===
+
+addr: 0x448e82
+img type: 0xFFFF (indexed)
+out name: 0_U2_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1114 (0b10001011010),
+pal size (bytes): 2228 (0x8b4),
+bpp: 11,
+data size: 5632 (0x1600)
+read step: 11 × int(2)
+px per read: 16
+expected colors no: 1114
+unexpected colors no: 0
+
+=== hIMG 59 ===
+
+addr: 0x45471e
+img type: 0xFFFF (indexed)
+out name: 0_U3_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 551 (0b1000100111),
+pal size (bytes): 1102 (0x44e),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 551
+unexpected colors no: 0
+
+=== hIMG 60 ===
+
+addr: 0x4d426c
+img type: 0xFFFF (indexed)
+out name: 0_U4_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 384 (0b110000000),
+pal size (bytes): 768 (0x300),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 384
+unexpected colors no: 0
+
+=== hIMG 61 ===
+
+addr: 0x457600
+img type: 0xFFFF (indexed)
+out name: 0_U5_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 226 (0b11100010),
+pal size (bytes): 452 (0x1c4),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 226
+unexpected colors no: 0
+
+=== hIMG 62 ===
+
+addr: 0x4425b8
+img type: 0xFFFF (indexed)
+out name: 0_U6_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 358 (0b101100110),
+pal size (bytes): 716 (0x2cc),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 358
+unexpected colors no: 0
+
+=== hIMG 63 ===
+
+addr: 0x443a8e
+img type: 0xFFFF (indexed)
+out name: 0_U7_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 537 (0b1000011001),
+pal size (bytes): 1074 (0x432),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 537
+unexpected colors no: 0
+
+=== hIMG 64 ===
+
+addr: 0x473f06
+img type: 0xFFFF (indexed)
+out name: 1_U0_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 497 (0b111110001),
+pal size (bytes): 994 (0x3e2),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 497
+unexpected colors no: 0
+
+=== hIMG 65 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 66 ===
+
+addr: 0x445406
+img type: 0xFFFF (indexed)
+out name: 1_U2_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 288 (0b100100000),
+pal size (bytes): 576 (0x240),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 288
+unexpected colors no: 0
+
+=== hIMG 67 ===
+
+addr: 0x3f0f8e
+img type: 0xFFFF (indexed)
+out name: 1_U3_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 592 (0b1001010000),
+pal size (bytes): 1184 (0x4a0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 592
+unexpected colors no: 0
+
+=== hIMG 68 ===
+
+addr: 0x4b48dc
+img type: 0xFFFF (indexed)
+out name: 1_U4_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 562 (0b1000110010),
+pal size (bytes): 1124 (0x464),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 562
+unexpected colors no: 0
+
+=== hIMG 69 ===
+
+addr: 0x4d93e4
+img type: 0xFFFF (indexed)
+out name: 1_U5_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 932 (0b1110100100),
+pal size (bytes): 1864 (0x748),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 932
+unexpected colors no: 0
+
+=== hIMG 70 ===
+
+addr: 0x45e714
+img type: 0xFFFF (indexed)
+out name: 1_U6_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 505 (0b111111001),
+pal size (bytes): 1010 (0x3f2),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 505
+unexpected colors no: 0
+
+=== hIMG 71 ===
+
+addr: 0x45cc1e
+img type: 0xFFFF (indexed)
+out name: 1_U7_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 616 (0b1001101000),
+pal size (bytes): 1232 (0x4d0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 616
+unexpected colors no: 0
+
+=== hIMG 72 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 73 ===
+
+addr: 0x4c98fe
+img type: 0xFFFF (indexed)
+out name: 1_U1_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 709 (0b1011000101),
+pal size (bytes): 1418 (0x58a),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 709
+unexpected colors no: 0
+
+=== hIMG 74 ===
+
+addr: 0x4c5116
+img type: 0xFFFF (indexed)
+out name: 1_U2_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 602 (0b1001011010),
+pal size (bytes): 1204 (0x4b4),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 602
+unexpected colors no: 0
+
+=== hIMG 75 ===
+
+addr: 0x4c357e
+img type: 0xFFFF (indexed)
+out name: 1_U3_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 797 (0b1100011101),
+pal size (bytes): 1594 (0x63a),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 797
+unexpected colors no: 0
+
+=== hIMG 76 ===
+
+addr: 0x40f2c4
+img type: 0xFFFF (indexed)
+out name: 1_U4_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 594 (0b1001010010),
+pal size (bytes): 1188 (0x4a4),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 594
+unexpected colors no: 0
+
+=== hIMG 77 ===
+
+addr: 0x40c858
+img type: 0xFFFF (indexed)
+out name: 1_U5_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 719 (0b1011001111),
+pal size (bytes): 1438 (0x59e),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 719
+unexpected colors no: 0
+
+=== hIMG 78 ===
+
+addr: 0x4183b4
+img type: 0xFFFF (indexed)
+out name: 1_U6_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 479 (0b111011111),
+pal size (bytes): 958 (0x3be),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 479
+unexpected colors no: 0
+
+=== hIMG 79 ===
+
+addr: 0x4167e2
+img type: 0xFFFF (indexed)
+out name: 1_U7_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 738 (0b1011100010),
+pal size (bytes): 1476 (0x5c4),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 738
+unexpected colors no: 0
+
+=== hIMG 80 ===
+
+addr: 0x3ef63c
+img type: 0xFFFF (indexed)
+out name: 1_U0_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 518 (0b1000000110),
+pal size (bytes): 1036 (0x40c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 518
+unexpected colors no: 0
+
+=== hIMG 81 ===
+
+addr: 0x3f2974
+img type: 0xFFFF (indexed)
+out name: 1_U1_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 539 (0b1000011011),
+pal size (bytes): 1078 (0x436),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 539
+unexpected colors no: 0
+
+=== hIMG 82 ===
+
+addr: 0x4dce48
+img type: 0x0000 (HI-COLOR)
+out name: 1_U2_V2
+width: 64
+height: 64
+expected data size: 8192(0x2000)
+
+=== hIMG 83 ===
+
+addr: 0x42018e
+img type: 0xFFFF (indexed)
+out name: 1_U3_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 736 (0b1011100000),
+pal size (bytes): 1472 (0x5c0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 736
+unexpected colors no: 0
+
+=== hIMG 84 ===
+
+addr: 0x41bd64
+img type: 0xFFFF (indexed)
+out name: 1_U4_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1086 (0b10000111110),
+pal size (bytes): 2172 (0x87c),
+bpp: 11,
+data size: 5632 (0x1600)
+read step: 11 × int(2)
+px per read: 16
+expected colors no: 1086
+unexpected colors no: 0
+
+=== hIMG 85 ===
+
+addr: 0x4cd046
+img type: 0xFFFF (indexed)
+out name: 1_U5_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 784 (0b1100010000),
+pal size (bytes): 1568 (0x620),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 784
+unexpected colors no: 0
+
+=== hIMG 86 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 87 ===
+
+addr: 0x49dd78
+img type: 0xFFFF (indexed)
+out name: 1_U7_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 705 (0b1011000001),
+pal size (bytes): 1410 (0x582),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 705
+unexpected colors no: 0
+
+=== hIMG 88 ===
+
+addr: 0x4804f4
+img type: 0xFFFF (indexed)
+out name: 1_U0_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1015 (0b1111110111),
+pal size (bytes): 2030 (0x7ee),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 1015
+unexpected colors no: 0
+
+=== hIMG 89 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 90 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 91 ===
+
+addr: 0x4587ce
+img type: 0xFFFF (indexed)
+out name: 1_U3_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 558 (0b1000101110),
+pal size (bytes): 1116 (0x45c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 558
+unexpected colors no: 0
+
+=== hIMG 92 ===
+
+addr: 0x482f96
+img type: 0xFFFF (indexed)
+out name: 1_U4_V3
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 112 (0b1110000),
+pal size (bytes): 224 (0xe0),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 112
+unexpected colors no: 0
+
+=== hIMG 93 ===
+
+addr: 0x4d75ac
+img type: 0xFFFF (indexed)
+out name: 1_U5_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 685 (0b1010101101),
+pal size (bytes): 1370 (0x55a),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 685
+unexpected colors no: 0
+
+=== hIMG 94 ===
+
+addr: 0x4d5776
+img type: 0xFFFF (indexed)
+out name: 1_U6_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 914 (0b1110010010),
+pal size (bytes): 1828 (0x724),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 914
+unexpected colors no: 0
+
+=== hIMG 95 ===
+
+addr: 0x499d6e
+img type: 0xFFFF (indexed)
+out name: 1_U7_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 548 (0b1000100100),
+pal size (bytes): 1096 (0x448),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 548
+unexpected colors no: 0
+
+=== hIMG 96 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 97 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 98 ===
+
+addr: 0x455f76
+img type: 0xFFFF (indexed)
+out name: 1_U2_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 418 (0b110100010),
+pal size (bytes): 836 (0x344),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 418
+unexpected colors no: 0
+
+=== hIMG 99 ===
+
+addr: 0x4474b4
+img type: 0xFFFF (indexed)
+out name: 1_U3_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 580 (0b1001000100),
+pal size (bytes): 1160 (0x488),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 580
+unexpected colors no: 0
+
+=== hIMG 100 ===
+
+addr: 0x4c6b18
+img type: 0xFFFF (indexed)
+out name: 1_U4_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 513 (0b1000000001),
+pal size (bytes): 1026 (0x402),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 513
+unexpected colors no: 0
+
+=== hIMG 101 ===
+
+addr: 0x4a8fda
+img type: 0xFFFF (indexed)
+out name: 1_U5_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 624 (0b1001110000),
+pal size (bytes): 1248 (0x4e0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 624
+unexpected colors no: 0
+
+=== hIMG 102 ===
+
+addr: 0x4a745e
+img type: 0xFFFF (indexed)
+out name: 1_U6_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 695 (0b1010110111),
+pal size (bytes): 1390 (0x56e),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 695
+unexpected colors no: 0
+
+=== hIMG 103 ===
+
+addr: 0x47d042
+img type: 0xFFFF (indexed)
+out name: 1_U7_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 943 (0b1110101111),
+pal size (bytes): 1886 (0x75e),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 943
+unexpected colors no: 0
+
+=== hIMG 104 ===
+
+addr: 0x4b614a
+img type: 0xFFFF (indexed)
+out name: 1_U0_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 879 (0b1101101111),
+pal size (bytes): 1758 (0x6de),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 879
+unexpected colors no: 0
+
+=== hIMG 105 ===
+
+addr: 0x3fb82c
+img type: 0xFFFF (indexed)
+out name: 1_U1_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 473 (0b111011001),
+pal size (bytes): 946 (0x3b2),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 473
+unexpected colors no: 0
+
+=== hIMG 106 ===
+
+addr: 0x3f6c34
+img type: 0xFFFF (indexed)
+out name: 1_U2_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 902 (0b1110000110),
+pal size (bytes): 1804 (0x70c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 902
+unexpected colors no: 0
+
+=== hIMG 107 ===
+
+addr: 0x3f9a68
+img type: 0xFFFF (indexed)
+out name: 1_U3_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 701 (0b1010111101),
+pal size (bytes): 1402 (0x57a),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 701
+unexpected colors no: 0
+
+=== hIMG 108 ===
+
+addr: 0x3f540a
+img type: 0xFFFF (indexed)
+out name: 1_U4_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 512 (0b1000000000),
+pal size (bytes): 1024 (0x400),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 512
+unexpected colors no: 0
+
+=== hIMG 109 ===
+
+addr: 0x501a82
+img type: 0xFFFF (indexed)
+out name: 1_U5_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 495 (0b111101111),
+pal size (bytes): 990 (0x3de),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 495
+unexpected colors no: 0
+
+=== hIMG 110 ===
+
+addr: 0x504ac2
+img type: 0xFFFF (indexed)
+out name: 1_U6_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 408 (0b110011000),
+pal size (bytes): 816 (0x330),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 408
+unexpected colors no: 0
+
+=== hIMG 111 ===
+
+addr: 0x4fe6e2
+img type: 0xFFFF (indexed)
+out name: 1_U7_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 458 (0b111001010),
+pal size (bytes): 916 (0x394),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 458
+unexpected colors no: 0
+
+=== hIMG 112 ===
+
+addr: 0x4fca94
+img type: 0xFFFF (indexed)
+out name: 1_U0_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 852 (0b1101010100),
+pal size (bytes): 1704 (0x6a8),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 852
+unexpected colors no: 0
+
+=== hIMG 113 ===
+
+addr: 0x503156
+img type: 0xFFFF (indexed)
+out name: 1_U1_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 599 (0b1001010111),
+pal size (bytes): 1198 (0x4ae),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 599
+unexpected colors no: 0
+
+=== hIMG 114 ===
+
+addr: 0x4ffd6c
+img type: 0xFFFF (indexed)
+out name: 1_U2_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 974 (0b1111001110),
+pal size (bytes): 1948 (0x79c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 974
+unexpected colors no: 0
+
+=== hIMG 115 ===
+
+addr: 0x4fa978
+img type: 0xFFFF (indexed)
+out name: 1_U3_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1089 (0b10001000001),
+pal size (bytes): 2178 (0x882),
+bpp: 11,
+data size: 5632 (0x1600)
+read step: 11 × int(2)
+px per read: 16
+expected colors no: 1089
+unexpected colors no: 0
+
+=== hIMG 116 ===
+
+addr: 0x41e0fc
+img type: 0xFFFF (indexed)
+out name: 1_U4_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 920 (0b1110011000),
+pal size (bytes): 1840 (0x730),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 920
+unexpected colors no: 0
+
+=== hIMG 117 ===
+
+addr: 0x4a553e
+img type: 0xFFFF (indexed)
+out name: 1_U5_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 973 (0b1111001101),
+pal size (bytes): 1946 (0x79a),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 973
+unexpected colors no: 0
+
+=== hIMG 118 ===
+
+addr: 0x4a3338
+img type: 0xFFFF (indexed)
+out name: 1_U6_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1088 (0b10001000000),
+pal size (bytes): 2176 (0x880),
+bpp: 11,
+data size: 5632 (0x1600)
+read step: 11 × int(2)
+px per read: 16
+expected colors no: 1088
+unexpected colors no: 0
+
+=== hIMG 119 ===
+
+addr: 0x419d64
+img type: 0xFFFF (indexed)
+out name: 1_U7_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1073 (0b10000110001),
+pal size (bytes): 2146 (0x862),
+bpp: 11,
+data size: 5632 (0x1600)
+read step: 11 × int(2)
+px per read: 16
+expected colors no: 1073
+unexpected colors no: 0
+
+=== hIMG 120 ===
+
+addr: 0x4a15f6
+img type: 0xFFFF (indexed)
+out name: 1_U0_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1016 (0b1111111000),
+pal size (bytes): 2032 (0x7f0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 1016
+unexpected colors no: 0
+
+=== hIMG 121 ===
+
+addr: 0x49fb00
+img type: 0xFFFF (indexed)
+out name: 1_U1_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 722 (0b1011010010),
+pal size (bytes): 1444 (0x5a4),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 722
+unexpected colors no: 0
+
+=== hIMG 122 ===
+
+addr: 0x4db17a
+img type: 0xFFFF (indexed)
+out name: 1_U2_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 676 (0b1010100100),
+pal size (bytes): 1352 (0x548),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 676
+unexpected colors no: 0
+
+=== hIMG 123 ===
+
+addr: 0x4cb60e
+img type: 0xFFFF (indexed)
+out name: 1_U3_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 627 (0b1001110011),
+pal size (bytes): 1254 (0x4e6),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 627
+unexpected colors no: 0
+
+=== hIMG 124 ===
+
+addr: 0x4f42bc
+img type: 0x0000 (HI-COLOR)
+out name: 1_U4_V7
+width: 64
+height: 64
+expected data size: 8192(0x2000)
+
+=== hIMG 125 ===
+
+addr: 0x4f1cba
+img type: 0x0000 (HI-COLOR)
+out name: 1_U5_V7
+width: 64
+height: 64
+expected data size: 8192(0x2000)
+
+=== hIMG 126 ===
+
+addr: 0x4f68be
+img type: 0x0000 (HI-COLOR)
+out name: 1_U6_V7
+width: 64
+height: 64
+expected data size: 8192(0x2000)
+
+=== hIMG 127 ===
+
+addr: 0x4efb6c
+img type: 0x0000 (HI-COLOR)
+out name: 1_U7_V7
+width: 64
+height: 64
+expected data size: 8192(0x2000)
+
+=== hIMG 128 ===
+
+addr: 0x47562e
+img type: 0xFFFF (indexed)
+out name: 2_U0_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 113 (0b1110001),
+pal size (bytes): 226 (0xe2),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 113
+unexpected colors no: 0
+
+=== hIMG 129 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 130 ===
+
+addr: 0x3e313c
+img type: 0xFFFF (indexed)
+out name: 2_U2_V0
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 107 (0b1101011),
+pal size (bytes): 214 (0xd6),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 107
+unexpected colors no: 0
+
+=== hIMG 131 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 132 ===
+
+addr: 0x3dc6ae
+img type: 0xFFFF (indexed)
+out name: 2_U4_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 303 (0b100101111),
+pal size (bytes): 606 (0x25e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 303
+unexpected colors no: 0
+
+=== hIMG 133 ===
+
+addr: 0x433692
+img type: 0xFFFF (indexed)
+out name: 2_U5_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 528 (0b1000010000),
+pal size (bytes): 1056 (0x420),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 528
+unexpected colors no: 0
+
+=== hIMG 134 ===
+
+addr: 0x4d2336
+img type: 0xFFFF (indexed)
+out name: 2_U6_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 12 (0b1100),
+pal size (bytes): 24 (0x18),
+bpp: 4,
+data size: 2048 (0x800)
+read step: 1 × int(2)
+px per read: 4
+expected colors no: 12
+unexpected colors no: 0
+
+=== hIMG 135 ===
+
+addr: 0x2c93ea
+img type: 0xFFFF (indexed)
+out name: 2_U7_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 500 (0b111110100),
+pal size (bytes): 1000 (0x3e8),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 500
+unexpected colors no: 0
+
+=== hIMG 136 ===
+
+addr: 0x2cd3f8
+img type: 0xFFFF (indexed)
+out name: 2_U0_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 507 (0b111111011),
+pal size (bytes): 1014 (0x3f6),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 507
+unexpected colors no: 0
+
+=== hIMG 137 ===
+
+addr: 0x3e697e
+img type: 0xFFFF (indexed)
+out name: 2_U1_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 710 (0b1011000110),
+pal size (bytes): 1420 (0x58c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 710
+unexpected colors no: 0
+
+=== hIMG 138 ===
+
+addr: 0x3e8450
+img type: 0xFFFF (indexed)
+out name: 2_U2_V1
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 21 (0b10101),
+pal size (bytes): 42 (0x2a),
+bpp: 5,
+data size: 2560 (0xa00)
+read step: 5 × int(2)
+px per read: 16
+expected colors no: 21
+unexpected colors no: 0
+
+=== hIMG 139 ===
+
+addr: 0x44022e
+img type: 0xFFFF (indexed)
+out name: 2_U3_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 479 (0b111011111),
+pal size (bytes): 958 (0x3be),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 479
+unexpected colors no: 0
+
+=== hIMG 140 ===
+
+addr: 0x441932
+img type: 0xFFFF (indexed)
+out name: 2_U4_V1
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 62 (0b111110),
+pal size (bytes): 124 (0x7c),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 62
+unexpected colors no: 0
+
+=== hIMG 141 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 142 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 143 ===
+
+addr: 0x491656
+img type: 0xFFFF (indexed)
+out name: 2_U7_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 295 (0b100100111),
+pal size (bytes): 590 (0x24e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 295
+unexpected colors no: 0
+
+=== hIMG 144 ===
+
+addr: 0x4970f8
+img type: 0xFFFF (indexed)
+out name: 2_U0_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 660 (0b1010010100),
+pal size (bytes): 1320 (0x528),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 660
+unexpected colors no: 0
+
+=== hIMG 145 ===
+
+addr: 0x241644
+img type: 0xFFFF (indexed)
+out name: 2_U1_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 686 (0b1010101110),
+pal size (bytes): 1372 (0x55c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 686
+unexpected colors no: 0
+
+=== hIMG 146 ===
+
+addr: 0x472d16
+img type: 0xFFFF (indexed)
+out name: 2_U2_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 243 (0b11110011),
+pal size (bytes): 486 (0x1e6),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 243
+unexpected colors no: 0
+
+=== hIMG 147 ===
+
+addr: 0x4724f6
+img type: 0xFFFF (indexed)
+out name: 2_U3_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 11 (0b1011),
+pal size (bytes): 22 (0x16),
+bpp: 4,
+data size: 2048 (0x800)
+read step: 1 × int(2)
+px per read: 4
+expected colors no: 11
+unexpected colors no: 0
+
+=== hIMG 148 ===
+
+addr: 0x4e671a
+img type: 0xFFFF (indexed)
+out name: 2_U4_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 223 (0b11011111),
+pal size (bytes): 446 (0x1be),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 223
+unexpected colors no: 0
+
+=== hIMG 149 ===
+
+addr: 0x4e3278
+img type: 0xFFFF (indexed)
+out name: 2_U5_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 279 (0b100010111),
+pal size (bytes): 558 (0x22e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 279
+unexpected colors no: 0
+
+=== hIMG 150 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 151 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 152 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 153 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 154 ===
+
+addr: 0x4f939a
+img type: 0xFFFF (indexed)
+out name: 2_U2_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 490 (0b111101010),
+pal size (bytes): 980 (0x3d4),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 490
+unexpected colors no: 0
+
+=== hIMG 155 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 156 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 157 ===
+
+addr: 0x25d43e
+img type: 0xFFFF (indexed)
+out name: 2_U5_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 325 (0b101000101),
+pal size (bytes): 650 (0x28a),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 325
+unexpected colors no: 0
+
+=== hIMG 158 ===
+
+addr: 0x25c004
+img type: 0xFFFF (indexed)
+out name: 2_U6_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 280 (0b100011000),
+pal size (bytes): 560 (0x230),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 280
+unexpected colors no: 0
+
+=== hIMG 159 ===
+
+addr: 0x25e8d2
+img type: 0xFFFF (indexed)
+out name: 2_U7_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 255 (0b11111111),
+pal size (bytes): 510 (0x1fe),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 255
+unexpected colors no: 0
+
+=== hIMG 160 ===
+
+addr: 0x259702
+img type: 0xFFFF (indexed)
+out name: 2_U0_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 331 (0b101001011),
+pal size (bytes): 662 (0x296),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 331
+unexpected colors no: 0
+
+=== hIMG 161 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 162 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 163 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 164 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 165 ===
+
+addr: 0x2b3bfa
+img type: 0xFFFF (indexed)
+out name: 2_U5_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 25 (0b11001),
+pal size (bytes): 50 (0x32),
+bpp: 5,
+data size: 2560 (0xa00)
+read step: 5 × int(2)
+px per read: 16
+expected colors no: 25
+unexpected colors no: 0
+
+=== hIMG 166 ===
+
+addr: 0x2accc0
+img type: 0xFFFF (indexed)
+out name: 2_U6_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 186 (0b10111010),
+pal size (bytes): 372 (0x174),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 186
+unexpected colors no: 0
+
+=== hIMG 167 ===
+
+addr: 0x2ade3e
+img type: 0xFFFF (indexed)
+out name: 2_U7_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 173 (0b10101101),
+pal size (bytes): 346 (0x15a),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 173
+unexpected colors no: 0
+
+=== hIMG 168 ===
+
+addr: 0x4ec05c
+img type: 0xFFFF (indexed)
+out name: 2_U0_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 132 (0b10000100),
+pal size (bytes): 264 (0x108),
+bpp: 8,
+data size: 4096 (0x1000)
+read step: 1 × int(2)
+px per read: 2
+expected colors no: 132
+unexpected colors no: 0
+
+=== hIMG 169 ===
+
+addr: 0x485318
+img type: 0xFFFF (indexed)
+out name: 2_U1_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 533 (0b1000010101),
+pal size (bytes): 1066 (0x42a),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 533
+unexpected colors no: 0
+
+=== hIMG 170 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 171 ===
+
+addr: 0x5075fe
+img type: 0xFFFF (indexed)
+out name: 2_U3_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 526 (0b1000001110),
+pal size (bytes): 1052 (0x41c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 526
+unexpected colors no: 0
+
+=== hIMG 172 ===
+
+addr: 0x224f12
+img type: 0xFFFF (indexed)
+out name: 2_U4_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 368 (0b101110000),
+pal size (bytes): 736 (0x2e0),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 368
+unexpected colors no: 0
+
+=== hIMG 173 ===
+
+addr: 0x21f20a
+img type: 0xFFFF (indexed)
+out name: 2_U5_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 634 (0b1001111010),
+pal size (bytes): 1268 (0x4f4),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 634
+unexpected colors no: 0
+
+=== hIMG 174 ===
+
+addr: 0x21d974
+img type: 0xFFFF (indexed)
+out name: 2_U6_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 582 (0b1001000110),
+pal size (bytes): 1164 (0x48c),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 582
+unexpected colors no: 0
+
+=== hIMG 175 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 176 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 177 ===
+
+addr: 0x483e80
+img type: 0xFFFF (indexed)
+out name: 2_U1_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 327 (0b101000111),
+pal size (bytes): 654 (0x28e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 327
+unexpected colors no: 0
+
+=== hIMG 178 ===
+
+addr: 0x486b4c
+img type: 0xFFFF (indexed)
+out name: 2_U2_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 544 (0b1000100000),
+pal size (bytes): 1088 (0x440),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 544
+unexpected colors no: 0
+
+=== hIMG 179 ===
+
+addr: 0x488396
+img type: 0xFFFF (indexed)
+out name: 2_U3_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 556 (0b1000101100),
+pal size (bytes): 1112 (0x458),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 556
+unexpected colors no: 0
+
+=== hIMG 180 ===
+
+addr: 0x4df092
+img type: 0xFFFF (indexed)
+out name: 2_U4_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 512 (0b1000000000),
+pal size (bytes): 1024 (0x400),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 512
+unexpected colors no: 0
+
+=== hIMG 181 ===
+
+addr: 0x45b742
+img type: 0xFFFF (indexed)
+out name: 2_U5_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 361 (0b101101001),
+pal size (bytes): 722 (0x2d2),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 361
+unexpected colors no: 0
+
+=== hIMG 182 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 183 ===
+
+addr: 0x42c616
+img type: 0xFFFF (indexed)
+out name: 2_U7_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 666 (0b1010011010),
+pal size (bytes): 1332 (0x534),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 666
+unexpected colors no: 0
+
+=== hIMG 184 ===
+
+addr: 0x42e828
+img type: 0xFFFF (indexed)
+out name: 2_U0_V7
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 52 (0b110100),
+pal size (bytes): 104 (0x68),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 52
+unexpected colors no: 0
+
+=== hIMG 185 ===
+
+addr: 0x4bb082
+img type: 0xFFFF (indexed)
+out name: 2_U1_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 359 (0b101100111),
+pal size (bytes): 718 (0x2ce),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 359
+unexpected colors no: 0
+
+=== hIMG 186 ===
+
+addr: 0x4bc99e
+img type: 0xFFFF (indexed)
+out name: 2_U2_V7
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 11 (0b1011),
+pal size (bytes): 22 (0x16),
+bpp: 4,
+data size: 2048 (0x800)
+read step: 1 × int(2)
+px per read: 4
+expected colors no: 11
+unexpected colors no: 0
+
+=== hIMG 187 ===
+
+addr: 0x400126
+img type: 0xFFFF (indexed)
+out name: 2_U3_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 603 (0b1001011011),
+pal size (bytes): 1206 (0x4b6),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 603
+unexpected colors no: 0
+
+=== hIMG 188 ===
+
+addr: 0x401b22
+img type: 0xFFFF (indexed)
+out name: 2_U4_V7
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 60 (0b111100),
+pal size (bytes): 120 (0x78),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 60
+unexpected colors no: 0
+
+=== hIMG 189 ===
+
+addr: 0x47a33e
+img type: 0xFFFF (indexed)
+out name: 2_U5_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 468 (0b111010100),
+pal size (bytes): 936 (0x3a8),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 468
+unexpected colors no: 0
+
+=== hIMG 190 ===
+
+addr: 0x446850
+img type: 0xFFFF (indexed)
+out name: 2_U6_V7
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 45 (0b101101),
+pal size (bytes): 90 (0x5a),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 45
+unexpected colors no: 0
+
+=== hIMG 191 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 192 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 193 ===
+
+addr: 0x4b973c
+img type: 0xFFFF (indexed)
+out name: 3_U1_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 380 (0b101111100),
+pal size (bytes): 760 (0x2f8),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 380
+unexpected colors no: 0
+
+=== hIMG 194 ===
+
+addr: 0x477658
+img type: 0xFFFF (indexed)
+out name: 3_U2_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 342 (0b101010110),
+pal size (bytes): 684 (0x2ac),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 342
+unexpected colors no: 0
+
+=== hIMG 195 ===
+
+addr: 0x422afa
+img type: 0xFFFF (indexed)
+out name: 3_U3_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 776 (0b1100001000),
+pal size (bytes): 1552 (0x610),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 776
+unexpected colors no: 0
+
+=== hIMG 196 ===
+
+addr: 0x4261e4
+img type: 0xFFFF (indexed)
+out name: 3_U4_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 593 (0b1001010001),
+pal size (bytes): 1186 (0x4a2),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 593
+unexpected colors no: 0
+
+=== hIMG 197 ===
+
+addr: 0x47ba2c
+img type: 0xFFFF (indexed)
+out name: 3_U5_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 360 (0b101101000),
+pal size (bytes): 720 (0x2d0),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 360
+unexpected colors no: 0
+
+=== hIMG 198 ===
+
+addr: 0x4e1c4a
+img type: 0xFFFF (indexed)
+out name: 3_U6_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 372 (0b101110100),
+pal size (bytes): 744 (0x2e8),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 372
+unexpected colors no: 0
+
+=== hIMG 199 ===
+
+addr: 0x4027a4
+img type: 0xFFFF (indexed)
+out name: 3_U7_V0
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 536 (0b1000011000),
+pal size (bytes): 1072 (0x430),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 536
+unexpected colors no: 0
+
+=== hIMG 200 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 201 ===
+
+addr: 0x3e401c
+img type: 0xFFFF (indexed)
+out name: 3_U1_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 485 (0b111100101),
+pal size (bytes): 970 (0x3ca),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 485
+unexpected colors no: 0
+
+=== hIMG 202 ===
+
+addr: 0x3e8e84
+img type: 0xFFFF (indexed)
+out name: 3_U2_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 649 (0b1010001001),
+pal size (bytes): 1298 (0x512),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 649
+unexpected colors no: 0
+
+=== hIMG 203 ===
+
+addr: 0x43e632
+img type: 0xFFFF (indexed)
+out name: 3_U3_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 457 (0b111001001),
+pal size (bytes): 914 (0x392),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 457
+unexpected colors no: 0
+
+=== hIMG 204 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 205 ===
+
+addr: 0x40525e
+img type: 0xFFFF (indexed)
+out name: 3_U5_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 1131 (0b10001101011),
+pal size (bytes): 2262 (0x8d6),
+bpp: 11,
+data size: 5632 (0x1600)
+read step: 11 × int(2)
+px per read: 16
+expected colors no: 1131
+unexpected colors no: 0
+
+=== hIMG 206 ===
+
+addr: 0x40727a
+img type: 0xFFFF (indexed)
+out name: 3_U6_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 962 (0b1111000010),
+pal size (bytes): 1924 (0x784),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 962
+unexpected colors no: 0
+
+=== hIMG 207 ===
+
+addr: 0x3ddb16
+img type: 0xFFFF (indexed)
+out name: 3_U7_V1
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 897 (0b1110000001),
+pal size (bytes): 1794 (0x702),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 897
+unexpected colors no: 0
+
+=== hIMG 208 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 209 ===
+
+addr: 0x4bd1be
+img type: 0xFFFF (indexed)
+out name: 3_U1_V2
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 647 (0b1010000111),
+pal size (bytes): 1294 (0x50e),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 647
+unexpected colors no: 0
+
+=== hIMG 210 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 211 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 212 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 213 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 214 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 215 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 216 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 217 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 218 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 219 ===
+
+addr: 0x4c179e
+img type: 0xFFFF (indexed)
+out name: 3_U3_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 631 (0b1001110111),
+pal size (bytes): 1262 (0x4ee),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 631
+unexpected colors no: 0
+
+=== hIMG 220 ===
+
+addr: 0x4befbe
+img type: 0xFFFF (indexed)
+out name: 3_U4_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 598 (0b1001010110),
+pal size (bytes): 1196 (0x4ac),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 598
+unexpected colors no: 0
+
+=== hIMG 221 ===
+
+addr: 0x4c0d5c
+img type: 0xFFFF (indexed)
+out name: 3_U5_V3
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 28 (0b11100),
+pal size (bytes): 56 (0x38),
+bpp: 5,
+data size: 2560 (0xa00)
+read step: 5 × int(2)
+px per read: 16
+expected colors no: 28
+unexpected colors no: 0
+
+=== hIMG 222 ===
+
+addr: 0x20738a
+img type: 0xFFFF (indexed)
+out name: 3_U6_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 279 (0b100010111),
+pal size (bytes): 558 (0x22e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 279
+unexpected colors no: 0
+
+=== hIMG 223 ===
+
+addr: 0x212a28
+img type: 0xFFFF (indexed)
+out name: 3_U7_V3
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 327 (0b101000111),
+pal size (bytes): 654 (0x28e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 327
+unexpected colors no: 0
+
+=== hIMG 224 ===
+
+addr: 0x205ec8
+img type: 0xFFFF (indexed)
+out name: 3_U0_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 348 (0b101011100),
+pal size (bytes): 696 (0x2b8),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 348
+unexpected colors no: 0
+
+=== hIMG 225 ===
+
+addr: 0x2a1152
+img type: 0xFFFF (indexed)
+out name: 3_U1_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 49 (0b110001),
+pal size (bytes): 98 (0x62),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 49
+unexpected colors no: 0
+
+=== hIMG 226 ===
+
+addr: 0x2a04ec
+img type: 0xFFFF (indexed)
+out name: 3_U2_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 46 (0b101110),
+pal size (bytes): 92 (0x5c),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 46
+unexpected colors no: 0
+
+=== hIMG 227 ===
+
+addr: 0x2a2a22
+img type: 0xFFFF (indexed)
+out name: 3_U3_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 47 (0b101111),
+pal size (bytes): 94 (0x5e),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 47
+unexpected colors no: 0
+
+=== hIMG 228 ===
+
+addr: 0x2a1dbe
+img type: 0xFFFF (indexed)
+out name: 3_U4_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 45 (0b101101),
+pal size (bytes): 90 (0x5a),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 45
+unexpected colors no: 0
+
+=== hIMG 229 ===
+
+addr: 0x29c62c
+img type: 0xFFFF (indexed)
+out name: 3_U5_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 327 (0b101000111),
+pal size (bytes): 654 (0x28e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 327
+unexpected colors no: 0
+
+=== hIMG 230 ===
+
+addr: 0x29dac4
+img type: 0xFFFF (indexed)
+out name: 3_U6_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 317 (0b100111101),
+pal size (bytes): 634 (0x27a),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 317
+unexpected colors no: 0
+
+=== hIMG 231 ===
+
+addr: 0x295836
+img type: 0xFFFF (indexed)
+out name: 3_U7_V4
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 349 (0b101011101),
+pal size (bytes): 698 (0x2ba),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 349
+unexpected colors no: 0
+
+=== hIMG 232 ===
+
+addr: 0x296cfa
+img type: 0xFFFF (indexed)
+out name: 3_U0_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 341 (0b101010101),
+pal size (bytes): 682 (0x2aa),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 341
+unexpected colors no: 0
+
+=== hIMG 233 ===
+
+addr: 0x26f4a4
+img type: 0xFFFF (indexed)
+out name: 3_U1_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 122 (0b1111010),
+pal size (bytes): 244 (0xf4),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 122
+unexpected colors no: 0
+
+=== hIMG 234 ===
+
+addr: 0x2a9ac4
+img type: 0xFFFF (indexed)
+out name: 3_U2_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 564 (0b1000110100),
+pal size (bytes): 1128 (0x468),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 564
+unexpected colors no: 0
+
+=== hIMG 235 ===
+
+addr: 0x2a8256
+img type: 0xFFFF (indexed)
+out name: 3_U3_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 562 (0b1000110010),
+pal size (bytes): 1124 (0x464),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 562
+unexpected colors no: 0
+
+=== hIMG 236 ===
+
+addr: 0x244acc
+img type: 0xFFFF (indexed)
+out name: 3_U4_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 492 (0b111101100),
+pal size (bytes): 984 (0x3d8),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 492
+unexpected colors no: 0
+
+=== hIMG 237 ===
+
+addr: 0x2400b6
+img type: 0xFFFF (indexed)
+out name: 3_U5_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 450 (0b111000010),
+pal size (bytes): 900 (0x384),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 450
+unexpected colors no: 0
+
+=== hIMG 238 ===
+
+addr: 0x2ca9dc
+img type: 0xFFFF (indexed)
+out name: 3_U6_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 340 (0b101010100),
+pal size (bytes): 680 (0x2a8),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 340
+unexpected colors no: 0
+
+=== hIMG 239 ===
+
+addr: 0x274a26
+img type: 0xFFFF (indexed)
+out name: 3_U7_V5
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 127 (0b1111111),
+pal size (bytes): 254 (0xfe),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 127
+unexpected colors no: 0
+
+=== hIMG 240 ===
+
+addr: 0x21ca92
+img type: 0xFFFF (indexed)
+out name: 3_U0_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 108 (0b1101100),
+pal size (bytes): 216 (0xd8),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 108
+unexpected colors no: 0
+
+=== hIMG 241 ===
+
+addr: 0x222450
+img type: 0xFFFF (indexed)
+out name: 3_U1_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 98 (0b1100010),
+pal size (bytes): 196 (0xc4),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 98
+unexpected colors no: 0
+
+=== hIMG 242 ===
+
+addr: 0x278330
+img type: 0xFFFF (indexed)
+out name: 3_U2_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 365 (0b101101101),
+pal size (bytes): 730 (0x2da),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 365
+unexpected colors no: 0
+
+=== hIMG 243 ===
+
+addr: 0x26b1b4
+img type: 0xFFFF (indexed)
+out name: 3_U3_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 368 (0b101110000),
+pal size (bytes): 736 (0x2e0),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 368
+unexpected colors no: 0
+
+=== hIMG 244 ===
+
+addr: 0x26c69e
+img type: 0xFFFF (indexed)
+out name: 3_U4_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 448 (0b111000000),
+pal size (bytes): 896 (0x380),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 448
+unexpected colors no: 0
+
+=== hIMG 245 ===
+
+addr: 0x273448
+img type: 0xFFFF (indexed)
+out name: 3_U5_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 490 (0b111101010),
+pal size (bytes): 980 (0x3d4),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 490
+unexpected colors no: 0
+
+=== hIMG 246 ===
+
+addr: 0x271e62
+img type: 0xFFFF (indexed)
+out name: 3_U6_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 494 (0b111101110),
+pal size (bytes): 988 (0x3dc),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 494
+unexpected colors no: 0
+
+=== hIMG 247 ===
+
+addr: 0x27592e
+img type: 0xFFFF (indexed)
+out name: 3_U7_V6
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 439 (0b110110111),
+pal size (bytes): 878 (0x36e),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 439
+unexpected colors no: 0
+
+=== hIMG 248 ===
+
+addr: 0x276ea6
+img type: 0xFFFF (indexed)
+out name: 3_U0_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 320 (0b101000000),
+pal size (bytes): 640 (0x280),
+bpp: 9,
+data size: 4608 (0x1200)
+read step: 9 × int(2)
+px per read: 16
+expected colors no: 320
+unexpected colors no: 0
+
+=== hIMG 249 ===
+
+addr: 0x0
+img type: null ptr (none)
+
+=== hIMG 250 ===
+
+addr: 0x427c88
+img type: 0xFFFF (indexed)
+out name: 3_U2_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 616 (0b1001101000),
+pal size (bytes): 1232 (0x4d0),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 616
+unexpected colors no: 0
+
+=== hIMG 251 ===
+
+addr: 0x42975a
+img type: 0xFFFF (indexed)
+out name: 3_U3_V7
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 59 (0b111011),
+pal size (bytes): 118 (0x76),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
+expected colors no: 59
+unexpected colors no: 0
+
+=== hIMG 252 ===
+
+addr: 0x413f1a
+img type: 0xFFFF (indexed)
+out name: 3_U4_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 541 (0b1000011101),
+pal size (bytes): 1082 (0x43a),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 541
+unexpected colors no: 0
+
+=== hIMG 253 ===
+
+addr: 0x415956
+img type: 0xFFFF (indexed)
+out name: 3_U5_V7
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 65 (0b1000001),
+pal size (bytes): 130 (0x82),
+bpp: 7,
+data size: 3584 (0xe00)
+read step: 7 × int(2)
+px per read: 16
+expected colors no: 65
+unexpected colors no: 0
+
+=== hIMG 254 ===
+
+addr: 0x4acae4
+img type: 0xFFFF (indexed)
+out name: 3_U6_V7
+palType: 0 (R5 G6 B5),
+width: 64,
+height: 64,
+colors no.: 684 (0b1010101100),
+pal size (bytes): 1368 (0x558),
+bpp: 10,
+data size: 5120 (0x1400)
+read step: 5 × int(2)
+px per read: 8
+expected colors no: 684
+unexpected colors no: 0
+
+=== hIMG 255 ===
+
+addr: 0x4ae446
+img type: 0xFFFF (indexed)
+out name: 3_U7_V7
+palType: 1 (A4 R4 G4 B4),
+width: 64,
+height: 64,
+colors no.: 61 (0b111101),
+pal size (bytes): 122 (0x7a),
+bpp: 6,
+data size: 3072 (0xc00)
+read step: 3 × int(2)
+px per read: 8
