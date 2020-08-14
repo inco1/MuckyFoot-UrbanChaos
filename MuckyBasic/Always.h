@@ -35,7 +35,9 @@ typedef					char			CBYTE;
 
 #define PI         (3.14159265F)
 #define ROOT2      (1.41421356F)
-#define INFINITY   (0x7fffffff)
+#if !defined(INFINITY)
+#define INFINITY (0x7fffffff)
+#endif
 
 
 //

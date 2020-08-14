@@ -316,7 +316,9 @@ void	SetListenerPosition(SLONG x,SLONG y,SLONG z,SLONG scale);
 // Stuff put in by Mark...
 //
 
-#define INFINITY		0x7fffffff
+#if !defined(INFINITY)
+#define INFINITY (0x7fffffff)
+#endif
 #define PI				(3.14159265F)
 #define WITHIN(x,a,b)	((x) >= (a) && (x) <= (b))
 #define SATURATE(x,a,b)	{if ((x) < (a)) {(x) = (a);} else if ((x) > (b)) {(x) = (b);}}
