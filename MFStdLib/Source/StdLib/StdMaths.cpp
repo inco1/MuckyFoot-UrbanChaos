@@ -104,26 +104,29 @@ UWORD	ini_table[]	=
 };
 
 SLONG	Root(SLONG square)
-{
-	__asm
-	{
-		xor		ebx,ebx
-		mov		ecx,square
-		bsr		eax,ecx
-		je		done_it
-		movzx	ebx,ini_table[eax*2]
-do_it:
-		mov		eax,ecx
-		xor		edx,edx
-		div		ebx
-		cmp		eax,ebx
-		jge		done_it
-		add		ebx,eax
-		shr		ebx,1
-		jmp		do_it
-done_it:
-		mov		eax,ebx
-	}
+{//TODO make asm code usable again
+// 	__asm
+// 	{
+// 		xor		ebx,ebx
+// 		mov		ecx,square
+// 		bsr		eax,ecx
+// 		je		done_it
+// 		movzx	ebx,ini_table[eax*2]
+// do_it:
+// 		mov		eax,ecx
+// 		xor		edx,edx
+// 		div		ebx
+// 		cmp		eax,ebx
+// 		jge		done_it
+// 		add		ebx,eax
+// 		shr		ebx,1
+// 		jmp		do_it
+// done_it:
+// 		mov		eax,ebx
+// 	}
+	
+		SLONG result = sqrt(square);
+		return result;
 }
 
 #else //#ifndef TARGET_DC
