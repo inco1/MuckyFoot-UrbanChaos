@@ -19,7 +19,7 @@
 #ifndef PSX
 #include "panel.h"
 #else
-#include "c:\fallen\psxeng\headers\panel.h"
+#include "psxeng\headers\panel.h"
 #endif
 
 BARREL_Sphere *BARREL_sphere; //[BARREL_MAX_SPHERES];

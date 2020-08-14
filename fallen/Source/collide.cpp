@@ -1,6 +1,6 @@
 #include	"Game.h"
-//#include	"c:\fallen\editor\headers\collide.hpp"
-#include	"c:\fallen\editor\headers\map.h"
+//#include	"editor\headers\collide.hpp"
+#include	"editor\headers\map.h"
 #include	"animate.h"
 #include	"dirt.h"
 #include	"fog.h"
@@ -16,12 +16,12 @@
 #include	"mav.h"
 #include	"build2.h"
 #ifndef		PSX
-#include	"C:\fallen\DDEngine\Headers\console.h"
+#include	"DDEngine\Headers\console.h"
 #endif
 #include	"person.h"
 #include	"sound.h"
 #include	"interact.h"
-#include	"C:\fallen\headers\inside2.h"
+#include	"headers\inside2.h"
 #include	"barrel.h"
 #include	"walkable.h"
 #include	"fc.h"

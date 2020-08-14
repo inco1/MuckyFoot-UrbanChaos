@@ -5,7 +5,7 @@
 #include	"statedef.h"
 #include	"cnet.h"
 #ifndef	PSX
-#include	"c:\fallen\ddlibrary\headers\net.h"
+#include	"ddlibrary\headers\net.h"
 #endif
 #include	"pap.h"
 #include	"pcom.h"

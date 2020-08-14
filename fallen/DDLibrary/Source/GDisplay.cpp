@@ -2,11 +2,11 @@
 // Guy Simmons, 13th November 1997.
 
 #include	"DDLib.h"
-#include	"c:\fallen\headers\demo.h"
-#include	"c:\fallen\headers\interfac.h"
+#include	"headers\demo.h"
+#include	"headers\interfac.h"
 #include	"BinkClient.h"
-#include	"c:\fallen\headers\env.h"
-#include	"c:\fallen\headers\xlat_str.h"
+#include	"headers\env.h"
+#include	"headers\xlat_str.h"
 
 #include "poly.h"
 #include "vertexbuffer.h"
@@ -15,7 +15,7 @@
 #include "polypage.h"
 #include "gdisplay.h"
 #include "panel.h"
-#include	"c:\fallen\headers\game.h"
+#include	"headers\game.h"
 
 #ifdef TARGET_DC
 #include "target.h"

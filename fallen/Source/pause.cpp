@@ -17,11 +17,11 @@
 #include	"xlat_str.h"
 
 #ifndef	PSX
-#include	"c:\fallen\ddengine\headers\poly.h"
-#include    "C:\fallen\DDLibrary\headers\D3DTexture.h"
-#include    "C:\fallen\DDLibrary\headers\GDisplay.h"
-#include    "c:\fallen\ddengine\headers\font3d.h"
-#include    "c:\fallen\ddengine\headers\font2d.h"
+#include	"ddengine\headers\poly.h"
+#include    "DDLibrary\headers\D3DTexture.h"
+#include    "DDLibrary\headers\GDisplay.h"
+#include    "ddengine\headers\font3d.h"
+#include    "ddengine\headers\font2d.h"
 #endif
 
 #ifdef TARGET_DC

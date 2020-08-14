@@ -48,12 +48,12 @@
 #include "poly.h"
 #include "drawxtra.h"
 #include "fmatrix.h"
-#include    "C:\fallen\DDLibrary\headers\D3DTexture.h"
-#include    "C:\fallen\DDLibrary\headers\GDisplay.h"
-#include	"C:\fallen\DDEngine\headers\polypage.h"
+#include    "DDLibrary\headers\D3DTexture.h"
+#include    "DDLibrary\headers\GDisplay.h"
+#include	"DDEngine\headers\polypage.h"
 #include "io.h"
 #include "truetype.h"
-#include "c:\fallen\ddlibrary\headers\dclowlevel.h"
+#include "ddlibrary\headers\dclowlevel.h"
 #include "panel.h"
 
 #ifdef TARGET_DC
@@ -607,7 +607,7 @@ CBYTE* menu_config_names[]= { "config leaves.tga", "config rain.tga",
 						     "config snow.tga", "config blood.tga" };
 #endif
 
-CBYTE frontend_fonttable[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!\":;'#$*-()[]\\/?ÈÀÜÖÄÙÚÓÁÉ";
+CBYTE frontend_fonttable[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!\":;'#$*-()[]\\/?ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½";
 
 /*ULONG FRONTEND_leaf_colours[4] =
 	{
@@ -5499,16 +5499,16 @@ extern void PANEL_draw_quad( float left,float top,float right,float bottom,SLONG
 			char *pcString[3];
 			if ( !IsEnglish )
 			{
-				pcString[0] = "Une manette vient d'etre"; 		// NOTE! The E in etre should be ê, but the font doesn't have it, and it's all in caps anyway.
+				pcString[0] = "Une manette vient d'etre"; 		// NOTE! The E in etre should be ï¿½, but the font doesn't have it, and it's all in caps anyway.
 				if ( bWriteVMInsteadOfVMU )
 				{
-					pcString[1] = "retirée ou une VM est";
+					pcString[1] = "retirï¿½e ou une VM est";
 				}
 				else
 				{
-					pcString[1] = "retirée ou une VMU est";
+					pcString[1] = "retirï¿½e ou une VMU est";
 				}
-				pcString[2] = "en cours de détection";
+				pcString[2] = "en cours de dï¿½tection";
 			}
 			else
 			{

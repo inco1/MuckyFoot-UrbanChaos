@@ -5,7 +5,7 @@
 #ifndef TARGET_DC
 
 #include	"DDLib.h"
-#include	"C:\fallen\DDEngine\Headers\Matrix.h"
+#include	"DDEngine\Headers\Matrix.h"
 
 //---------------------------------------------------------------
 //

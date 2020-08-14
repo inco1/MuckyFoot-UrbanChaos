@@ -4,16 +4,16 @@
 
 #include	"Editor.hpp"
 #include	"FileReq.hpp"
-#include	"c:\fallen\editor\headers\Prim.h"
-#include	"c:\fallen\headers\FMatrix.h"
-#include	"c:\fallen\headers\animtmap.h"
-#include	"c:\fallen\headers\animate.h"
-#include	"c:\fallen\headers\memory.h"
-#include	"c:\fallen\headers\io.h"
+#include	"editor\headers\Prim.h"
+#include	"headers\FMatrix.h"
+#include	"headers\animtmap.h"
+#include	"headers\animate.h"
+#include	"headers\memory.h"
+#include	"headers\io.h"
 
 // JCL
-#include	"c:\fallen\ddengine\headers\Quaternion.h"
-#include	"c:\fallen\headers\Hierarchy.h"
+#include	"ddengine\headers\Quaternion.h"
+#include	"headers\Hierarchy.h"
 
 #define	CONTROLS_HEIGHT			400
 #define	CONTROLS_WIDTH			300

@@ -1,8 +1,8 @@
 #include <MFStdLib.h>
 #include "psxeng.h"
 #include "game.h"
-#include "c:\fallen\headers\pap.h"
-#include "c:\fallen\headers\road.h"
+#include "headers\pap.h"
+#include "headers\road.h"
 
 
 #define MAP_BACK	(0)

@@ -2,13 +2,13 @@
 // Guy Simmons, 20th November 1997.
 
 #include	<MFStdLib.h>
-#include	"c:\fallen\psxlib\headers\gmem.h"
+#include	"psxlib\headers\gmem.h"
 #include	"libsn.h"
 #include	"libapi.h"
 #include	<sys\file.h>
 #include	"kernel.h"
-#include	"c:\fallen\headers\inline.h"
-#include "c:\fallen\headers\interfac.h"
+#include	"headers\inline.h"
+#include "headers\interfac.h"
 #include	"ctrller.h"
 #include	"libcd.h"
 #include	<libpad.h>

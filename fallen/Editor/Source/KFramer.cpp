@@ -3,7 +3,7 @@
 
 
 #include	"Editor.hpp"
-#include	"c:\fallen\headers\memory.h"
+#include	"headers\memory.h"
 
 #define	CONTROLS_HEIGHT			400
 #define	CONTROLS_WIDTH			200

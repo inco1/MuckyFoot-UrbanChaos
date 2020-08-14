@@ -20,10 +20,10 @@
 #include "matrix.h"
 #include "tga.h"
 
-#include "c:\fallen\ddlibrary\headers\ddlib.h"
-#include "c:\fallen\ddlibrary\headers\mfx.h"
-#include "c:\fallen\headers\music.h"
-#include "c:\fallen\headers\sound_id.h"
+#include "ddlibrary\headers\ddlib.h"
+#include "ddlibrary\headers\mfx.h"
+#include "headers\music.h"
+#include "headers\sound_id.h"
 
 //#include "midasdll.h"
 

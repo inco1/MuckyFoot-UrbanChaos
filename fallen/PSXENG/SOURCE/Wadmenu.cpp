@@ -34,11 +34,11 @@
 #include "libcd.h"
 #include "libmcrd.h"
 
-#include "c:\fallen\psxlib\headers\mfx.h"
+#include "psxlib\headers\mfx.h"
 
-#include "c:\fallen\headers\sound_id.h"
+#include "headers\sound_id.h"
 
-#include "c:\fallen\headers\interfac.h"	  
+#include "headers\interfac.h"	  
 
 #include "wadstr.h" 
 

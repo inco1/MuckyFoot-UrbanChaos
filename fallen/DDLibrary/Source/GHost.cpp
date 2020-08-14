@@ -2,7 +2,7 @@
 // Guy Simmons, 20th November 1997.
 
 #include	"DDLib.h"
-#include	"c:\fallen\headers\Sound.h"
+#include	"headers\Sound.h"
 #include	"a3dmanager.h"
 #include	"snd_type.h"
 #include	"mfx.h"

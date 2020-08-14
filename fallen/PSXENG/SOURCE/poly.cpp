@@ -4,9 +4,9 @@
 
 #include <MFStdLib.h>
 //#include <math.h>
-#include "c:\fallen\psxeng\headers\engine.h"
-#include "c:\fallen\headers\eway.h"
-//#include "c:\fallen\psxeng\headers\texture.h"	 
+#include "psxeng\headers\engine.h"
+#include "headers\eway.h"
+//#include "psxeng\headers\texture.h"	 
 //#include "message.h"
 								 
 //

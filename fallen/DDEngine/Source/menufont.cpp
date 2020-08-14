@@ -8,7 +8,7 @@
 #include "MenuFont.h"
 #include "tga.h"
 #include "poly.h"
-#include "c:\fallen\headers\noserver.h"
+#include "headers\noserver.h"
 
 #ifdef TARGET_DC
 #include "target.h"
@@ -768,7 +768,7 @@ void MENUFONT_MergeLower() {
 	for (c='a';c<='z';c++) {
 	  FontInfo[c]=FontInfo[c-32];
 	}
-/*	for (c='à';c<='ý';c++) {
+/*	for (c='ï¿½';c<='ï¿½';c++) {
 	  FontInfo[c]=FontInfo[c-32];
 	}*/
 	for (c=224;c<=252;c++) {

@@ -16,10 +16,10 @@
 #include <libpad.h>
 #include <libmcrd.h>
 
-#include	"c:\fallen\psxlib\headers\GDisplay.h"
-#include	"c:\fallen\headers\night.h"
-#include	"c:\fallen\psxeng\headers\psxeng.h"
-#include	"c:\fallen\headers\game.h"
+#include	"psxlib\headers\GDisplay.h"
+#include	"headers\night.h"
+#include	"psxeng\headers\psxeng.h"
+#include	"headers\game.h"
 
 SLONG				DisplayWidth,
 					DisplayHeight,

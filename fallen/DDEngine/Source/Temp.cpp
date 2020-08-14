@@ -7,16 +7,16 @@
 #include	"Engine.h"
 #include	"crinkle.h"
 
-#include	"c:\fallen\editor\headers\primativ.hpp"
-//#include	"c:\fallen\editor\headers\building.hpp"
-#include	"c:\fallen\editor\headers\Edit.h"
-//#include	"c:\fallen\editor\headers\Engine.h"
-#include	"c:\fallen\editor\headers\Map.h"
-#include	"c:\fallen\editor\headers\prim_draw.h"
-#include	"c:\fallen\editor\headers\Thing.h"
-#include	"c:\fallen\headers\interact.h"
-#include	"c:\fallen\headers\FMatrix.h"
-//#include	"c:\fallen\editor\headers\collide.hpp"
+#include	"editor\headers\primativ.hpp"
+//#include	"editor\headers\building.hpp"
+#include	"editor\headers\Edit.h"
+//#include	"editor\headers\Engine.h"
+#include	"editor\headers\Map.h"
+#include	"editor\headers\prim_draw.h"
+#include	"editor\headers\Thing.h"
+#include	"headers\interact.h"
+#include	"headers\FMatrix.h"
+//#include	"editor\headers\collide.hpp"
 
 #define	POLY_FLAG_TEXTURED		(1<<1)
 #define	POLY_FLAG_MASKED		(1<<2)

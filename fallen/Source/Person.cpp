@@ -30,7 +30,7 @@
 #include	"hook.h"
 #include	"pcom.h"
 #include	"tracks.h"
-#include	"C:\fallen\DDEngine\Headers\Matrix.h"
+#include	"DDEngine\Headers\Matrix.h"
 #include	"ob.h"
 #include	"wmove.h"
 #include	"balloon.h"
@@ -49,8 +49,8 @@
 #include	"pow.h"
 #include	"frontend.h"
 #ifdef		PSX 
-#include "c:\fallen\psxeng\headers\psxeng.h"
-#include "c:\fallen\psxeng\headers\panel.h"
+#include "psxeng\headers\psxeng.h"
+#include "psxeng\headers\panel.h"
 #else
 #include "aeng.h"
 #include "panel.h"

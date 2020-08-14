@@ -3,13 +3,13 @@
 //
 
 #include "game.h"
-#include	"c:\fallen\headers\memory.h"
-#include "c:\fallen\psxeng\headers\engine.h"
-#include "c:\fallen\headers\FMatrix.h"
+#include	"headers\memory.h"
+#include "psxeng\headers\engine.h"
+#include "headers\FMatrix.h"
 //#include "aeng.h"
 //#include "matrix.h"
 //#include "mesh.h"
-//#include "c:\fallen\headers\light.h"
+//#include "headers\light.h"
 //#include "poly.h"
 			     
 

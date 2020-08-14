@@ -10,7 +10,7 @@
 
 #include "MFx.h"
 #include "QSManager.h"
-#include "c:\fallen\headers\fc.h"
+#include "headers\fc.h"
 
 
 //#define DISABLE_MFX

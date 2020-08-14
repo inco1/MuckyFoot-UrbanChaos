@@ -34,19 +34,19 @@ template <class hilite> DrawT( M31 *draw_pos, Mesh *the_mesh, hilite )
 */
 
 #include	"game.h"
-#include	"c:\fallen\headers\memory.h"
+#include	"headers\memory.h"
 
 #include	"psxeng.h"		   
 #include	"poly.h"
-#include	"c:\fallen\headers\supermap.h"
-#include	"c:\fallen\headers\inside2.h"
+#include	"headers\supermap.h"
+#include	"headers\inside2.h"
 #include	"night.h"
-#include	"c:\fallen\headers\pap.h"
+#include	"headers\pap.h"
 //#include	"math.h"
 #include	"libgpu.h"
-#include	"c:\fallen\headers\fc.h"
-#include "c:\fallen\psxeng\headers\engine.h"
-#include	"c:\fallen\headers\ware.h"
+#include	"headers\fc.h"
+#include "psxeng\headers\engine.h"
+#include	"headers\ware.h"
 
 // For Filtering we need the pad input crap here.
 

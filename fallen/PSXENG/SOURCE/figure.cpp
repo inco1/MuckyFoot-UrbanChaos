@@ -3,17 +3,17 @@
 // 
 
 #include "game.h"
-#include	"c:\fallen\headers\memory.h"
-#include "c:\fallen\psxeng\headers\engine.h"
-//#include "c:\fallen\editor\headers\poly.h"
+#include	"headers\memory.h"
+#include "psxeng\headers\engine.h"
+//#include "editor\headers\poly.h"
 //#include "light.h"
 #include "figure.h"
-#include	"c:\fallen\headers\statedef.h"
-#include	"c:\fallen\headers\mav.h"
+#include	"headers\statedef.h"
+#include	"headers\mav.h"
 
-#include "c:\fallen\headers\fmatrix.h"
-#include "c:\fallen\headers\interact.h"
-#include "c:\fallen\headers\animate.h"
+#include "headers\fmatrix.h"
+#include "headers\interact.h"
+#include "headers\animate.h"
 #include "libpad.h"
 
 // For Filtering we need the pad input crap here.

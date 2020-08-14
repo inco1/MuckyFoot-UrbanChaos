@@ -1,7 +1,7 @@
 
 #include	"game.h"
 #include	"shadow.h"
-#include "c:\fallen\headers\animtmap.h"
+#include "headers\animtmap.h"
 #include	"pap.h"
 #include	"supermap.h"
 #include	"io.h"
@@ -9,7 +9,7 @@
 
 #ifndef PSX
 #ifdef	EDITOR
-#include	"c:\fallen\editor\headers\Editor.hpp"
+#include	"editor\headers\Editor.hpp"
 #else
 #define PSX
 
@@ -31,8 +31,8 @@ SLONG	insert_collision_vect(SLONG x1,SLONG y1,SLONG z1,SLONG x2,SLONG y2,SLONG z
 {
 	return 0;
 }
-//psx#include	"c:\fallen\editor\headers\Editor.hpp"
-//#include	"c:\fallen\editor\headers\engine.h"
+//psx#include	"editor\headers\Editor.hpp"
+//#include	"editor\headers\engine.h"
 //#include	"engine.h"
 //#include	"math.h"
 //#include	"thing.h"

@@ -7,9 +7,9 @@
 #include <MFStdLib.h>
 #include <stdlib.h>
 #include <hm.h>
-#include "c:\fallen\ddengine\headers\message.h"
+#include "ddengine\headers\message.h"
 #include "game.h"
-#include "c:\fallen\ddengine\headers\matrix.h"
+#include "ddengine\headers\matrix.h"
 
 #include "libmath.h"
 

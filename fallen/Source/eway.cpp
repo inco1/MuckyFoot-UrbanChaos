@@ -12,11 +12,11 @@
 #include "dirt.h"
 #include "thing.h"
 #include "pow.h"
-#include "c:\fallen\headers\music.h"
+#include "headers\music.h"
 #ifndef	PSX
 #include "font2d.h"
-#include "C:\fallen\DDEngine\Headers\console.h"
-#include "C:\fallen\DDEngine\Headers\map.h"
+#include "DDEngine\Headers\console.h"
+#include "DDEngine\Headers\map.h"
 #endif
 #include "chopper.h"
 #include "animal.h"
@@ -29,8 +29,8 @@
 #include "statedef.h"
 #include "wmove.h"
 #ifdef		PSX 
-#include "c:\fallen\psxeng\headers\psxeng.h"
-#include "c:\fallen\psxeng\headers\panel.h"
+#include "psxeng\headers\psxeng.h"
+#include "psxeng\headers\panel.h"
 #else
 #include "aeng.h"
 #include "panel.h"
@@ -50,7 +50,7 @@
 #include "xlat_str.h"
 #include "mist.h"
 #include "gamemenu.h"
-#include	"c:\fallen\headers\env.h"
+#include	"headers\env.h"
 
 
 #ifdef TARGET_DC
@@ -2087,7 +2087,7 @@ void EWAY_load_fake_wander_text(CBYTE *fname)
 	ASSERT(EWAY_fake_wander_text_guilty_index+EWAY_fake_wander_text_guilty_number<=EWAY_mess_upto);
 	ASSERT(EWAY_fake_wander_text_normal_index+EWAY_fake_wander_text_normal_number<=EWAY_mess_upto);
 
-	// If this trips, you don't have c:\fallen\text\citsez.txt (or the foreign equivalent).
+	// If this trips, you don't have text\citsez.txt (or the foreign equivalent).
 	ASSERT ( EWAY_fake_wander_text_normal_number > 0 );
 #endif
 	return;
@@ -5218,7 +5218,7 @@ ANNOYINGSCRIBBLECHECK;
 													}
 													else
 													{
-														CONSOLE_text ( "D'arci arrête de jouer !", 8000 );
+														CONSOLE_text ( "D'arci arrï¿½te de jouer !", 8000 );
 													}
 												}
 												break;
@@ -5236,7 +5236,7 @@ ANNOYINGSCRIBBLECHECK;
 													}
 													else
 													{
-														CONSOLE_text ( "La boîte de vitesse D'arci !", 8000 );
+														CONSOLE_text ( "La boï¿½te de vitesse D'arci !", 8000 );
 													}
 												}
 												TRACE ( "2: Car yaw: %i\n", yaw_car );
@@ -5261,7 +5261,7 @@ ANNOYINGSCRIBBLECHECK;
 													}
 													else
 													{
-														CONSOLE_text ( "Bien joué D'arci. La bagnole est bonne pour la casse maintenant !", 8000 );
+														CONSOLE_text ( "Bien jouï¿½ D'arci. La bagnole est bonne pour la casse maintenant !", 8000 );
 													}
 												}
 												break;

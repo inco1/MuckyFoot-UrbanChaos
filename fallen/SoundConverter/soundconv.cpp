@@ -5,7 +5,7 @@
 #include "windows.h"
 #include <stdio.h>
 
-#include "c:\fallen\miles\mss.h"
+#include "miles\mss.h"
 #pragma comment(lib, "c:\\fallen\\miles\\mss32.lib")
 
 static void ConvertDir(char* src, char* dst);

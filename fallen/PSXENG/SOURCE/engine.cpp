@@ -2,31 +2,31 @@
 //#include	<MFStdLib.h>
 #include	"game.h"
 #include	"facet.h"
-#include	"c:\fallen\headers\memory.h"
-#include	"c:\fallen\psxeng\headers\engine.h"
-#include	"c:\fallen\headers\pap.h"
-#include	"c:\fallen\headers\ob.h"
-#include "c:\fallen\headers\supermap.h"
+#include	"headers\memory.h"
+#include	"psxeng\headers\engine.h"
+#include	"headers\pap.h"
+#include	"headers\ob.h"
+#include "headers\supermap.h"
 #ifdef INSIDES_EXIST
-#include "c:\fallen\headers\inside2.h"
+#include "headers\inside2.h"
 #endif
-#include "c:\fallen\headers\dirt.h"
-#include "c:\fallen\headers\night.h"
-#include "c:\fallen\headers\bike.h"
-#include "c:\fallen\headers\trip.h"
-#include "c:\fallen\headers\fc.h"
-#include "c:\fallen\headers\fmatrix.h"
-#include "c:\fallen\ddengine\headers\drawxtra.h"
-#include "c:\fallen\headers\psystem.h"
-#include "c:\fallen\headers\animate.h"
-#include "c:\fallen\headers\statedef.h"
-#include "c:\fallen\headers\spark.h"
-#include "c:\fallen\headers\pow.h"
-#include "c:\fallen\headers\eway.h"
-#include "c:\fallen\headers\mav.h"
-#include "c:\fallen\headers\grenade.h"
-#include "c:\fallen\headers\pcom.h"
-#include "c:\fallen\headers\ware.h"
+#include "headers\dirt.h"
+#include "headers\night.h"
+#include "headers\bike.h"
+#include "headers\trip.h"
+#include "headers\fc.h"
+#include "headers\fmatrix.h"
+#include "ddengine\headers\drawxtra.h"
+#include "headers\psystem.h"
+#include "headers\animate.h"
+#include "headers\statedef.h"
+#include "headers\spark.h"
+#include "headers\pow.h"
+#include "headers\eway.h"
+#include "headers\mav.h"
+#include "headers\grenade.h"
+#include "headers\pcom.h"
+#include "headers\ware.h"
 
 #include "libpad.h"
 #include "libapi.h"
@@ -1619,7 +1619,7 @@ SBYTE f_descend[]={
 };
 
 
-//char text_table[]="ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!\":;'#$*-()[]\\/?^¬@_";
+//char text_table[]="ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!\":;'#$*-()[]\\/?^ï¿½@_";
 #ifdef VERSION_KANJI
 /*
 CBYTE *Kanji_message[8];

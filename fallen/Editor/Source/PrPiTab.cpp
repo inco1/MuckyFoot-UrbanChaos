@@ -4,8 +4,8 @@
 #include	"engine.h"
 #include	"math.h"
 #include	"FileReq.hpp"
-#include	"c:\fallen\headers\io.h"
-#include	"c:\fallen\headers\memory.h"
+#include	"headers\io.h"
+#include	"headers\memory.h"
 
 //#include	"collide.hpp"  //needed for ele_shift
 

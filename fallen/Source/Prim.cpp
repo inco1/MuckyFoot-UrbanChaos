@@ -16,7 +16,7 @@
 #ifndef PSX
 #include	"matrix.h"
 #else
-#include	"c:\fallen\psxeng\headers\matrix.h"
+#include	"psxeng\headers\matrix.h"
 #endif
 
 

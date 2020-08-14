@@ -2,8 +2,8 @@
 #include	"edit.h"
 #include	"engine.h"
 #include	"prim.h"
-#include	"c:\fallen\headers\game.h"
-#include	"c:\fallen\headers\memory.h"
+#include	"headers\game.h"
+#include	"headers\memory.h"
 //#include	"trig.h"
 
 

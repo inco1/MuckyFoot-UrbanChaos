@@ -6,7 +6,7 @@
 #include "aeng.h"
 #include "matrix.h"
 #include "mesh.h"
-#include "c:\fallen\headers\light.h"
+#include "headers\light.h"
 #include "glpoly.h"
 
 

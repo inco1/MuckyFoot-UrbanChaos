@@ -2051,7 +2051,7 @@ void LIGHT_prim_use_normals(THING_INDEX t_index)
 
 
 #ifdef	EDITOR
-#include	"c:\fallen\editor\headers\scan.h"
+#include	"editor\headers\scan.h"
 extern	void	scan_undo_ambient(SLONG face,SLONG x,SLONG y,SLONG z,SLONG extra);
 extern	void	apply_ambient_to_floor(void);
 extern	void	remove_ambient_from_floor(void);

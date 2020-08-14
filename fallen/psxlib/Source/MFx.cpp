@@ -16,14 +16,14 @@
 
 #include "ctrller.h"
 
-#include "c:\fallen\psxeng\headers\psxeng.h"
+#include "psxeng\headers\psxeng.h"
 
-#include "c:\fallen\headers\sound_id.h"
-#include "c:\fallen\headers\music.h"
-#include "c:\fallen\headers\statedef.h"
-#include "c:\fallen\headers\animate.h"
+#include "headers\sound_id.h"
+#include "headers\music.h"
+#include "headers\statedef.h"
+#include "headers\animate.h"
 
-#include "c:\fallen\psxlib\headers\mfxmusic.h"
+#include "psxlib\headers\mfxmusic.h"
 
 #define MFX_MAX_CHANNELS	24
 #define MFX_MAX_WAVES		547

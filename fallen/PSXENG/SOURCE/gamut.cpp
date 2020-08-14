@@ -3,7 +3,7 @@
 //
 
 #include <MFStdLib.h>
-#include "c:\fallen\psxeng\headers\Gamut.h"
+#include "psxeng\headers\Gamut.h"
 
 
 NGAMUT_Gamut	NGAMUT_gamut[NGAMUT_SIZE];

@@ -5,8 +5,8 @@
 #include	"prim.h"
 #include	"prim_draw.h"
 #include	"anim.h"
-#include	"c:\fallen\headers\animtmap.h"
-#include	"c:\fallen\headers\memory.h"
+#include	"headers\animtmap.h"
+#include	"headers\memory.h"
 
 #define	EDITOR	1
 

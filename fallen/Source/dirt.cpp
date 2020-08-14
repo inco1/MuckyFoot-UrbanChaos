@@ -17,7 +17,7 @@
 #include "pcom.h"
 #include "animate.h"
 #include "fmatrix.h"
-#include "c:\fallen\headers\night.h"
+#include "headers\night.h"
 #include "pyro.h"
 #include "poly.h"
 #include "psystem.h"
@@ -27,8 +27,8 @@
 #include "mav.h"
 
 #ifndef PSX
-#include    "C:\fallen\DDLibrary\headers\D3DTexture.h"
-#include    "C:\fallen\DDLibrary\headers\GDisplay.h"
+#include    "DDLibrary\headers\D3DTexture.h"
+#include    "DDLibrary\headers\GDisplay.h"
 #endif
 
 #define TICK_SHIFT_LOWRES	(TICK_SHIFT-2)

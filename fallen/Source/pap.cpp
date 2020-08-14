@@ -7,9 +7,9 @@
 #include "game.h"
 #include "mav.h"
 #ifndef		PSX
-#include "c:\fallen\ddengine\headers\aeng.h"
+#include "ddengine\headers\aeng.h"
 #else
-#include "c:\fallen\psxeng\headers\engine.h"
+#include "psxeng\headers\engine.h"
 
 #endif
 #include "inside2.h"

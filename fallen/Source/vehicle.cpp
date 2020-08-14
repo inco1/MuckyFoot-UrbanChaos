@@ -18,12 +18,12 @@
 
 #include "game.h"
 #ifndef	PSX
-#include "c:\fallen\ddengine\headers\matrix.h"
-#include "c:\fallen\ddengine\headers\poly.h"
-#include "c:\fallen\ddengine\headers\oval.h"
-#include "c:\fallen\ddlibrary\headers\ddlib.h"
+#include "ddengine\headers\matrix.h"
+#include "ddengine\headers\poly.h"
+#include "ddengine\headers\oval.h"
+#include "ddlibrary\headers\ddlib.h"
 #else
-#include "c:\fallen\psxeng\headers\poly.h"
+#include "psxeng\headers\poly.h"
 #endif
 #include "pap.h"
 #include "fmatrix.h"
@@ -31,10 +31,10 @@
 #include "pcom.h"
 
 #ifndef	PSX
-#include "c:\fallen\ddengine\headers\aeng.h"
-#include "c:\fallen\ddengine\headers\mesh.h"
+#include "ddengine\headers\aeng.h"
+#include "ddengine\headers\mesh.h"
 #else
-#include "c:\fallen\psxeng\headers\mesh.h"
+#include "psxeng\headers\mesh.h"
 #endif
 
 #include "pow.h"
@@ -42,14 +42,14 @@
 #include "interfac.h"
 #include "dirt.h"
 #include "mist.h"
-#include "c:\fallen\editor\headers\prim.h"
+#include "editor\headers\prim.h"
 #include "animate.h"
 #include "sound.h"
 #include "barrel.h"
 #include "interact.h"
 #include "ob.h"
 #include "night.h"
-#include "c:\fallen\ddengine\headers\drawxtra.h"
+#include "ddengine\headers\drawxtra.h"
 #include "psystem.h"
 
 #include "mfx.h"

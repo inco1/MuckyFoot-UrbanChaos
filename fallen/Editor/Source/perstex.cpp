@@ -7,7 +7,7 @@
 #include <windows.h>
 #include <MFStdLib.h>
 #include "perstex.h"
-#include "c:\fallen\headers\noserver.h"
+#include "headers\noserver.h"
 
 #ifdef	NO_SERVER
 #define TEXTURE_DIR "server\\"

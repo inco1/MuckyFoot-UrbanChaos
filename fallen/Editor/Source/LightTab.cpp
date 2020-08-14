@@ -2,7 +2,7 @@
 
 #include	"LightTab.hpp"
 #include	"engine.h"
-#include	"c:\fallen\headers\memory.h"
+#include	"headers\memory.h"
 
 static		counter;
 #define	SHADOW_LIGHT_SHIFT		(5)

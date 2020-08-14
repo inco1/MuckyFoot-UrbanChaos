@@ -6,11 +6,11 @@
 #include "aeng.h"
 #include "matrix.h"
 #include "mesh.h"
-#include "c:\fallen\headers\night.h"
-#include "c:\fallen\headers\light.h"
+#include "headers\night.h"
+#include "headers\light.h"
 #include "poly.h"
-#include "c:\fallen\headers\animtmap.h"
-#include "c:\fallen\headers\morph.h"
+#include "headers\animtmap.h"
+#include "headers\morph.h"
 #include <math.h>
 
 #define	POLY_FLAG_GOURAD		(1<<0)

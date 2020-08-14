@@ -16,12 +16,12 @@ CBYTE STARTSCR_mission[_MAX_PATH] = {0};
 #include	"startscr.h"
 
 #ifndef		PSX
-#include	"c:\fallen\ddengine\headers\poly.h"
-#include	"c:\fallen\ddengine\headers\text.h"
-#include    "c:\fallen\ddengine\headers\flamengine.h"
-#include    "c:\fallen\ddengine\headers\font3d.h"
-#include    "C:\fallen\DDLibrary\headers\D3DTexture.h"
-#include    "C:\fallen\DDLibrary\headers\GDisplay.h"
+#include	"ddengine\headers\poly.h"
+#include	"ddengine\headers\text.h"
+#include    "ddengine\headers\flamengine.h"
+#include    "ddengine\headers\font3d.h"
+#include    "DDLibrary\headers\D3DTexture.h"
+#include    "DDLibrary\headers\GDisplay.h"
 #include	"sound.h"
 #include	"menufont.h"
 #include	"texture.h"
@@ -29,10 +29,10 @@ CBYTE STARTSCR_mission[_MAX_PATH] = {0};
 #include	"night.h"
 #include	"io.h"
 #include	"ob.h"
-#include	"C:\fallen\DDEngine\headers\vertexbuffer.h"
-#include	"C:\fallen\DDEngine\headers\polypoint.h"
-#include	"C:\fallen\DDEngine\headers\renderstate.h"
-#include	"C:\fallen\DDEngine\headers\polypage.h"
+#include	"DDEngine\headers\vertexbuffer.h"
+#include	"DDEngine\headers\polypoint.h"
+#include	"DDEngine\headers\renderstate.h"
+#include	"DDEngine\headers\polypage.h"
 #include	"password.h"
 #include	"interfac.h"
 #include	"env.h"
@@ -383,7 +383,7 @@ void SaveAString(MFFileHandle &file, CBYTE *txt) {
 
 void LoadFont_CRT(void) 
 {
-//	MENUFONT_Load("font2.tga",POLY_PAGE_NEWFONT,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz$%&()+-\"?,.;:/#0123456789°·×_|}{÷");
+//	MENUFONT_Load("font2.tga",POLY_PAGE_NEWFONT,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz$%&()+-\"?,.;:/#0123456789ï¿½ï¿½ï¿½_|}{ï¿½");
 //	MENUFONT_Load("data\\textures\\extras\\olyfont2.tga",POLY_PAGE_NEWFONT_INVERSE,"abcdefghijklmnopqrstuvwxyz0123456789.,!\":;'#$*-()[]\\/?");
 #ifdef TARGET_DC
 	MENUFONT_Load("olyfont2dc.tga",POLY_PAGE_NEWFONT_INVERSE,"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!\":;'#$*-()[]\\/?");
@@ -396,7 +396,7 @@ void MENUFONT_MergeLower(void);
 }
 
 void LoadFont_LCD(void) {
-//	MENUFONT_Load("data\\textures\\extras\\font3.tga",POLY_PAGE_NEWFONT_INVERSE,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz$%&()+-\"?,.;:/#0123456789°·×_|}{÷");
+//	MENUFONT_Load("data\\textures\\extras\\font3.tga",POLY_PAGE_NEWFONT_INVERSE,"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz$%&()+-\"?,.;:/#0123456789ï¿½ï¿½ï¿½_|}{ï¿½");
 }
 
 SLONG MainWidgetLoop(void);

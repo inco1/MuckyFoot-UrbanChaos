@@ -7,8 +7,8 @@
 #include "poly.h"
 #include "light.h"
 #include "figure.h"
-#include "c:\fallen\headers\fmatrix.h"
-#include "c:\fallen\headers\interact.h"
+#include "headers\fmatrix.h"
+#include "headers\interact.h"
 
 void FIGURE_rotate_obj(SLONG xangle,SLONG yangle,SLONG zangle, Matrix33 *r3) 
 {

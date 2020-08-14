@@ -3,8 +3,8 @@
 //
 
 #include "game.h"
-#include "c:\fallen\psxeng\headers\engine.h"
-//#include "c:\fallen\editor\headers\poly.h"
+#include "psxeng\headers\engine.h"
+//#include "editor\headers\poly.h"
 //#include "light.h"
 #include "build.h"
 

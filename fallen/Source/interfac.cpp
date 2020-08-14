@@ -1,5 +1,5 @@
 #include	"game.h"
-#include	"c:\fallen\headers\interfac.h"
+#include	"headers\interfac.h"
 #include	"animate.h"
 #include	"statedef.h"
 #include	"person.h"
@@ -10,8 +10,8 @@
 #include	"hook.h"
 #include	"dirt.h"
 #ifdef		PSX
-#include	"c:\fallen\ddengine\headers\console.h"
-#include	"c:\fallen\psxeng\headers\psxeng.h"
+#include	"ddengine\headers\console.h"
+#include	"psxeng\headers\psxeng.h"
 #endif
 #include	"combat.h"
 #include	"eway.h"

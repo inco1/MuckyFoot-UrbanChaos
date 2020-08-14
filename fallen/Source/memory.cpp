@@ -35,7 +35,7 @@
 #include <libsn.h>
 #include <libcd.h>
 #include <ctype.h>
-#include "c:\fallen\psxlib\headers\myheap.h"
+#include "psxlib\headers\myheap.h"
 #endif
 
 #ifdef PSX

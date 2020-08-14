@@ -1,17 +1,17 @@
 #include	"game.h"
-#include	"c:\fallen\headers\supermap.h"
-#include	"c:\fallen\headers\pap.h"
-#include	"c:\fallen\headers\inside2.h"
-#include	"c:\fallen\headers\ob.h"
+#include	"headers\supermap.h"
+#include	"headers\pap.h"
+#include	"headers\inside2.h"
+#include	"headers\ob.h"
 #ifndef	PSX
-#include	"c:\fallen\editor\headers\Editor.hpp"
+#include	"editor\headers\Editor.hpp"
 #endif
 #include	"memory.h"
 #include	"mav.h"
 #include	"noserver.h"
 #ifndef	PSX
-#include	"c:\fallen\ddengine\headers\texture.h"
-#include	"c:\fallen\headers\env.h"
+#include	"ddengine\headers\texture.h"
+#include	"headers\env.h"
 #endif
 
 #ifdef EDITOR

@@ -10,21 +10,21 @@
 #include "libpad.h"
 #include "libapi.h"
 
-#include "c:\fallen\headers\dirt.h"
-#include "c:\fallen\headers\night.h"
-#include "c:\fallen\headers\bike.h"
-#include "c:\fallen\headers\trip.h"
-#include "c:\fallen\headers\fc.h"
-#include "c:\fallen\headers\fmatrix.h"
-#include "c:\fallen\ddengine\headers\drawxtra.h"
-#include "c:\fallen\headers\psystem.h"
-#include "c:\fallen\headers\animate.h"
-#include "c:\fallen\headers\statedef.h"
-#include "c:\fallen\headers\spark.h"
-#include "c:\fallen\headers\pow.h"
-#include "c:\fallen\headers\eway.h"
-#include "c:\fallen\headers\mav.h"
-#include "c:\fallen\headers\pcom.h"
+#include "headers\dirt.h"
+#include "headers\night.h"
+#include "headers\bike.h"
+#include "headers\trip.h"
+#include "headers\fc.h"
+#include "headers\fmatrix.h"
+#include "ddengine\headers\drawxtra.h"
+#include "headers\psystem.h"
+#include "headers\animate.h"
+#include "headers\statedef.h"
+#include "headers\spark.h"
+#include "headers\pow.h"
+#include "headers\eway.h"
+#include "headers\mav.h"
+#include "headers\pcom.h"
 
 
 #ifdef VERSION_USA
@@ -34,7 +34,7 @@
 #endif
 #ifdef VERSION_GERMAN
 #define STR_CONT		STR_CROSS" Fortfahren"
-#define	STR_RETURN		STR_TRI" Zurück zum Menü"
+#define	STR_RETURN		STR_TRI" Zurï¿½ck zum Menï¿½"
 #define STR_REPLAY		STR_CROSS" Level neu starten"
 #endif
 #ifdef VERSION_FRENCH
@@ -49,7 +49,7 @@
 #endif
 #ifdef VERSION_SPANISH
 #define STR_CONT		STR_CROSS" Seguir"
-#define	STR_RETURN		STR_TRI" Volver al menú"
+#define	STR_RETURN		STR_TRI" Volver al menï¿½"
 #define STR_REPLAY		STR_CROSS" Repetir nivel"
 #endif
 #ifdef VERSION_JAPAN
@@ -1808,13 +1808,13 @@ void PANEL_DrawSign(SLONG x,SLONG y,SLONG type)
 
 
 #ifdef VERSION_GERMAN
-#define STAT_STR "Stärke:\t\t\t%d\nKonstitution:\t%d\nReflexe:\t\t%d\nAusdauer:\t\t%d\n"
+#define STAT_STR "Stï¿½rke:\t\t\t%d\nKonstitution:\t%d\nReflexe:\t\t%d\nAusdauer:\t\t%d\n"
 #endif
 #ifdef VERSION_FRENCH
-#define STAT_STR "Force:\t\t\t%d\nConstitution:\t%d\nRéflexes:\t\t%d\nRésistance:\t%d\n"
+#define STAT_STR "Force:\t\t\t%d\nConstitution:\t%d\nRï¿½flexes:\t\t%d\nRï¿½sistance:\t%d\n"
 #endif
 #ifdef VERSION_SPANISH
-#define STAT_STR "Fuerza:\t\t\t%d\nConstitución:\t%d\nReflejos:\t\t%d\nResistencia:\t%d\n"
+#define STAT_STR "Fuerza:\t\t\t%d\nConstituciï¿½n:\t%d\nReflejos:\t\t%d\nResistencia:\t%d\n"
 #endif
 #ifdef VERSION_ITALIAN
 #define STAT_STR "Forza:\t\t\t%d\nTempra:\t\t%d\nRiflessi:\t\t%d\nResistenza:\t%d\n"

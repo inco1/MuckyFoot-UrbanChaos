@@ -5,15 +5,15 @@
 #include	"coltab.hpp"
 //#include	"collide.hpp"
 #include	"map.h"
-#include    "c:\fallen\headers\game.h"
-#include	"c:\fallen\headers\light.h"
+#include    "headers\game.h"
+#include	"headers\light.h"
 #include	"extra.h"
-#include	"c:\fallen\headers\animtmap.h"
-#include	"c:\fallen\headers\pap.h"
-#include	"c:\fallen\headers\ob.h"
-#include	"c:\fallen\headers\supermap.h"
-#include	"c:\fallen\headers\io.h"
-#include	"c:\fallen\headers\memory.h"
+#include	"headers\animtmap.h"
+#include	"headers\pap.h"
+#include	"headers\ob.h"
+#include	"headers\supermap.h"
+#include	"headers\io.h"
+#include	"headers\memory.h"
 
 #define	SET_TEXTURE_ROCKS(t)	{t.X=4;t.Y=4;t.Width=2;t.Height=2;t.Page=0;t.DrawFlags=(POLY_FLAG_GOURAD|POLY_FLAG_TEXTURED);}
 
@@ -3991,7 +3991,7 @@ void	process_map();
         - Added face edge visibility info.
         - Finally!! Those flags that mark when the texture is wrapping
           around inside a face. This happens when you apply spherical
-          or cylindrical coordinates, the faces along the 0§ axis don't
+          or cylindrical coordinates, the faces along the 0ï¿½ axis don't
           get proper mapping coords. Someone describe how to fix this?
         - Added -quiet parm, only displays minimal chunk info.
         - Object parent number is stored in CHUNK_TRACKOBJNAME.
@@ -4375,7 +4375,7 @@ void TrackRotReader(FILE *f, int ind, long p) {
 			printf(" error pos\n");
 			return;
 		}
-        printf("%*s             Angle: %f§, X: %f, Y: %f, Z: %f\n",ind, "", pos[0], pos[1], pos[2], pos[3]);
+        printf("%*s             Angle: %fï¿½, X: %f, Y: %f, Z: %f\n",ind, "", pos[0], pos[1], pos[2], pos[3]);
     }
 }
 

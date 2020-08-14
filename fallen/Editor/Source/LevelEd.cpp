@@ -2,11 +2,11 @@
 
 #include	"Editor.hpp"
 #include	"engine.h"
-#include	"c:\fallen\headers\game.h"
-#include	"c:\fallen\headers\animtmap.h"
-#include	"c:\fallen\headers\inside2.h"
-#include	"c:\fallen\headers\memory.h"
-#include	"c:\fallen\headers\io.h"
+#include	"headers\game.h"
+#include	"headers\animtmap.h"
+#include	"headers\inside2.h"
+#include	"headers\memory.h"
+#include	"headers\io.h"
 //#include	"collide.hpp"  //needed for ele_shift
 //#define		ShowWorkWindow(x)	{DrawLineC(0,0,WorkWindowWidth-1,WorkWindowHeight-1,255);DrawLineC(0,WorkWindowHeight-1,WorkWindowWidth-1,0,255); ShowWorkWindow(x);}
 

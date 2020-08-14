@@ -15,16 +15,16 @@
 #define TALK_3D			0
 
 #include "snd_type.h"
-#include	"c:\fallen\headers\demo.h"
+#include	"headers\demo.h"
 
 #include "MFX.h"
 #include "MFX_Miles.h"
 
-#include "c:\fallen\headers\fc.h"
-#include "c:\fallen\headers\env.h"
-#include "c:\fallen\headers\xlat_str.h"
-#include "c:\fallen\headers\demo.h"
-#include "c:\fallen\ddengine\headers\poly.h"
+#include "headers\fc.h"
+#include "headers\env.h"
+#include "headers\xlat_str.h"
+#include "headers\demo.h"
+#include "ddengine\headers\poly.h"
 #include "resource.h"
 #ifndef TARGET_DC
 #include <cmath>

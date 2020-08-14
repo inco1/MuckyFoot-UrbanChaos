@@ -44,11 +44,11 @@
 #include	"combat.h"
 #include	"door.h"
 #ifndef	PSX
-#include    "C:\fallen\DDEngine\Headers\console.h"
+#include    "DDEngine\Headers\console.h"
 #endif
 #include	"psystem.h"
 #include	"ribbon.h"
-#include	"C:\fallen\DDEngine\Headers\poly.h"
+#include	"DDEngine\Headers\poly.h"
 #include	"wmove.h"
 #include	"balloon.h"
 #include	"wand.h"
@@ -78,8 +78,8 @@
 #ifndef TARGET_DC
 #include	"FFManager.h"
 #endif
-#include	"c:\fallen\ddlibrary\headers\ddlib.h"
-#include	"c:\fallen\ddengine\headers\texture.h"
+#include	"ddlibrary\headers\ddlib.h"
+#include	"ddengine\headers\texture.h"
 #else
 #include	"LIBETC.h"
 
@@ -149,7 +149,7 @@ UBYTE InkeyToAscii[]=
 
 UBYTE InkeyToAsciiShift[]=
 {
-	/*   0 - 9   */		0,		0,		'!',	'"',	'œ',	'$',	'%',	'^',	'&',	'*',
+	/*   0 - 9   */		0,		0,		'!',	'"',	'ï¿½',	'$',	'%',	'^',	'&',	'*',
 	/*  10 - 19  */		'(',	')',	'_',	'+',	'\b',	'\t',	'Q',	'W',	'E',	'R',
 	/*  20 - 29  */		'T',	'Y',	'U',	'I',	'O',	'P',	'{',	'}',	0,		0,
 	/*  30 - 39  */ 	'A', 	'S',	'D',	'F',	'G',	'H',	'J',	'K',	'L',	':',
@@ -1883,7 +1883,7 @@ void	process_controls(void)
 #endif //#ifndef TARGET_DC
 
 
-//	PANEL_new_text(NULL, 2000, "abcdefghijk lmnopqr stuvwxyz ABCDEFG HIJKLMNO PQRSTUVWXYZ 0123456789 !\"£$%^ &*(){} []<>\\/:;'@ #~?-=+.,");
+//	PANEL_new_text(NULL, 2000, "abcdefghijk lmnopqr stuvwxyz ABCDEFG HIJKLMNO PQRSTUVWXYZ 0123456789 !\"ï¿½$%^ &*(){} []<>\\/:;'@ #~?-=+.,");
 //	PANEL_new_text(NULL, 2000, "a-b-c-d-e-f-g  h-i-j-k-l-m-n");
 	
 	#if THIS_IS_A_LOS_TEST
@@ -2008,10 +2008,10 @@ void	process_controls(void)
 			"xyzABCDEFGHIJKLMNOPQRS "
 			"TUVWXYZ0123456789!\"#$ "
 			"%^&*(){}[]<>\\/:;'@#_?-=+., "
-			"ÄË ABC ÏÖØÜß Abc ïöøü "
-			"ÆÇôàâç abc èéê abc îïôøû "
-			"¡¿Ø abc áäéí abc ñóøú "
- 			"ÀÈ ABC ÌÒÙàì abc òù©®");
+			"ï¿½ï¿½ ABC ï¿½ï¿½ï¿½ï¿½ï¿½ Abc ï¿½ï¿½ï¿½ï¿½ "
+			"ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ abc ï¿½ï¿½ï¿½ abc ï¿½ï¿½ï¿½ï¿½ï¿½ "
+			"ï¿½ï¿½ï¿½ abc ï¿½ï¿½ï¿½ï¿½ abc ï¿½ï¿½ï¿½ï¿½ "
+ 			"ï¿½ï¿½ ABC ï¿½ï¿½ï¿½ï¿½ï¿½ abc ï¿½ï¿½ï¿½ï¿½");
 	}
 #endif
 

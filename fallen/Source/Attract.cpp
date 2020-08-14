@@ -9,8 +9,8 @@
 #include "poly.h"
 #include "panel.h"
 #else
-#include "c:\fallen\psxeng\headers\psxeng.h"
-#include "c:\fallen\psxeng\headers\poly.h"
+#include "psxeng\headers\psxeng.h"
+#include "psxeng\headers\poly.h"
 #include "c:\ps\psx\include\ctrller.h"
 extern ControllerPacket PAD_Input1,PAD_Input2;
 #endif

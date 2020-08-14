@@ -15,7 +15,7 @@
 
 #include "MFx.h"
 #include "A3DManager.h"
-#include "c:\fallen\headers\fc.h"
+#include "headers\fc.h"
 
 #ifdef	TARGET_DC
 #include "target.h"

@@ -6,8 +6,8 @@
 #include	"animate.h"
 #include	"combat.h"
 #include	"id.h"
-//#include	"c:\fallen\editor\headers\collide.hpp"
-//#include	"c:\fallen\editor\headers\map.h"
+//#include	"editor\headers\collide.hpp"
+//#include	"editor\headers\map.h"
 #include	"statedef.h"
 #include	"enter.h"
 #include	"pap.h"
@@ -30,7 +30,7 @@
 //#include	"..\Editor\Headers\Thing.h"
 //#include	"..\Editor\Headers\engine.h"
 
-//#include	"c:\fallen\editor\headers\prim_draw.h"
+//#include	"editor\headers\prim_draw.h"
 /*
 struct	SVector
 {
