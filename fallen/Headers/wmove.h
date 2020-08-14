@@ -5,7 +5,7 @@
 #ifndef _WMOVE_
 #define _WMOVE_
 
-//#include	"c:\fallen\headers\memory.h"
+//#include	"headers\memory.h"
 
 typedef struct
 {

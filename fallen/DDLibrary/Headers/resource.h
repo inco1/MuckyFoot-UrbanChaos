@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Developer Studio generated include file.
-// Used by C:\fallen\DDLibrary\DDlib.rc
+// Used by DDLibrary\DDlib.rc
 //
 #define IDR_MAIN_MENU                   101
 #define IDD_ABOUT                       102

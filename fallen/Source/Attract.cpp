@@ -4,7 +4,7 @@
 #include "Game.h"
 #include "cam.h"
 #ifndef	PSX
-#include "c:\fallen\ddlibrary\headers\ddlib.h"
+#include <ddlib.h>
 #include "font2d.h"
 #include "poly.h"
 #include "panel.h"
