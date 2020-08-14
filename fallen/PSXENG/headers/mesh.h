@@ -6,7 +6,7 @@
 #define MESH_H
 
 
-#include "c:\fallen\headers\light.h"
+#include "headers\light.h"
 
 
 //

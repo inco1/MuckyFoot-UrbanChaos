@@ -75,9 +75,9 @@
 #ifndef VERSION_DEMO
 #define LEVEL_WON "Level abgeschlossen"
 #define LEVEL_LOST "Level verloren"
-#define SEARCHING "Suche läuft"
+#define SEARCHING "Suche lï¿½uft"
 #define COMPLETE ""
-#define CONFIG_CANCEL "Drücken Sie L1, R1, START und SELECT, um abzubrechen"
+#define CONFIG_CANCEL "Drï¿½cken Sie L1, R1, START und SELECT, um abzubrechen"
 #define NEW_LEVELS 1
 #endif
 #endif
@@ -93,7 +93,7 @@
 #define LANG_ROOT_NAME "french"
 #define LOADING_NAME "DATA\\LOADING%d.TIM"
 #define OVERLAY_NAME "FRONTEND.BIN"
-#define LEVEL_WON "Niveau terminé"
+#define LEVEL_WON "Niveau terminï¿½"
 #define LEVEL_LOST "Niveau perdu"
 #define SEARCHING "Recherche"
 #define COMPLETE ""
@@ -231,7 +231,7 @@ extern SLONG total_mem_size;
 
 #include	"inline_c.h"
 #include	"gtemac.h"
-#include	"c:\fallen\psxlib\headers\GDisplay.h"
+#include	"psxlib\headers\GDisplay.h"
 #include	"night.h"
 #include	"poly.h"
 //

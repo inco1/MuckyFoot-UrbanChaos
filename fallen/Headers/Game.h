@@ -115,13 +115,13 @@ extern	struct MemTable save_table[];
 #include	"interact.h"
 
 #ifdef VERSION_D3D
-#include	"c:\fallen\ddengine\headers\aeng.h"
+#include	<aeng.h>
 #endif
 
 #ifdef	PSX
-#include	"c:\fallen\psxeng\headers\psxeng.h"
+#include	"psxeng\headers\psxeng.h"
 #define _MAX_PATH 260
-#include	"c:\fallen\headers\memory.h"
+#include	"headers\memory.h"
 #endif
 
 #ifdef	EDITOR

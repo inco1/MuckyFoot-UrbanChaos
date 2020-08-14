@@ -1,7 +1,7 @@
 #ifndef	BUILDING_H
 #define	BUILDING_H			1
 
-//#include	"c:\fallen\headers\memory.h"
+//#include	"headers\memory.h"
 
 //DEFINES
 

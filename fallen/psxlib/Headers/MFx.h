@@ -10,8 +10,8 @@
 
 
 #include "MFStdLib.h"
-#include "c:\fallen\headers\structs.h"
-#include "c:\fallen\headers\thing.h"
+#include "headers\structs.h"
+#include "headers\thing.h"
 
 #define		MFX_LOOPED		(1)				// loop the wave infinitely
 #define		MFX_MOVING		(2)				// update the source's coords automatically
