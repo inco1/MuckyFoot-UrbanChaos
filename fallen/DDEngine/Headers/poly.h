@@ -33,16 +33,18 @@ static inline int ftol(float f)
 #ifndef PSX
 static inline int ftol(float f)
 {
-	int ans;
+	// int ans;
 
-	__asm
-	{
-		mov		eax,f
-		fld		f
-		fistp	ans
-	}
+	// __asm
+	// {
+	// 	mov		eax,f
+	// 	fld		f
+	// 	fistp	ans
+	// }
 
-	return ans;
+	// return ans;
+	//TODO commented out assembly code, switched it to the DC version of the same function
+	return ( (int)f );
 }
 #endif
 
