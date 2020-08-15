@@ -221,7 +221,7 @@ SLONG	FileLoadAt(CBYTE *file_name,void *buffer)
 //---------------------------------------------------------------
 
 
-void TraceText(CBYTE *fmt, ...)
+void TraceText(const CBYTE *fmt, ...)
 {
 	//
 	// Work out the real message.

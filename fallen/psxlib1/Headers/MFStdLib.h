@@ -166,7 +166,7 @@ SLONG			main(UWORD argc, CBYTE** argv);
 BOOL			SetupHost(ULONG flags);
 void			ResetHost(void);
 void			DebugText(CBYTE *error, ...);
-void            TraceText(CBYTE *error, ...);
+void            TraceText(const CBYTE *error, ...);
 BOOL			LibShellActive(void);
 BOOL			LibShellChanged(void);
 BOOL			LibShellMessage(const char *pMessage, const char *pFile, ULONG dwLine);
@@ -183,7 +183,7 @@ BOOL			LibShellMessage(const char *pMessage, const char *pFile, ULONG dwLine);
 //#define ASSERT(e)			{if (!(e)) {}}
 
 //void			DebugText(CBYTE *error, ...);
-//void            TraceText(CBYTE *error, ...);
+//void            TraceText(const CBYTE *error, ...);
 #define	DebugText
 #define	TraceText
 #define TRACE

@@ -141,7 +141,7 @@ SLONG			main(UWORD argc, TCHAR** argv);
 BOOL			SetupHost(ULONG flags);
 void			ResetHost(void);
 //void            TraceText(CBYTE *error, ...);
-void            TraceText(char *error, ...);
+void            TraceText(const CBYTE *error, ...);
 BOOL			LibShellActive(void);
 BOOL			LibShellChanged(void);
 BOOL			LibShellMessage(const char *pMessage, const char *pFile, ULONG dwLine);

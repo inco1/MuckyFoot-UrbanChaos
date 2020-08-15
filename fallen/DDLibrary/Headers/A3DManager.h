@@ -23,7 +23,7 @@ typedef signed short		SWORD;
 typedef unsigned long		ULONG;
 typedef signed long			SLONG;
 
-void            TraceText(CBYTE *error, ...);
+void            TraceText(const CBYTE *error, ...);
 #define TRACE				TraceText
 
 #endif
