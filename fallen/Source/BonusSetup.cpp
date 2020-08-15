@@ -24,7 +24,7 @@ SLONG		 bonus_gender; // for translators
 
 //---------------------------------------------------------------
 
-TCHAR	*bstrings[]	=
+const TCHAR	*bstrings[]	=
 {
 	"Primary Objective",
 	"Secondary Objective",
@@ -49,7 +49,7 @@ BOOL	CALLBACK	bonus_proc(HWND hWnd,UINT message,WPARAM wParam,LPARAM lParam)
 	SLONG len;
 	HWND		the_ctrl;
 	SLONG		c0	=	0;
-	LPTSTR		lbitem_str;
+	LPCTSTR		lbitem_str;
 
 	switch(message)
 	{
