@@ -7,6 +7,6 @@ target_include_directories(mfstd PUBLIC MFStdLib/Headers)
 
 file(GLOB FALLEN_SRC fallen/Source/*.cpp)
 add_executable(fallen ${FALLEN_SRC})
-target_include_directories(fallen PRIVATE fallen/ledit/headers fallen/sedit/headers fallen/DDLibrary/Headers fallen/gedit/headers fallen/ddengine/headers fallen/Headers fallen/DDLibrary)
+target_include_directories(fallen PRIVATE fallen/ledit/headers fallen/sedit/headers fallen/DDLibrary/Headers fallen/gedit/headers fallen/ddengine/headers fallen/Headers fallen/DDLibrary stubs/Headers)
 
 target_link_libraries(fallen mfstd)
