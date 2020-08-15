@@ -140,7 +140,7 @@ struct MFTime
 SLONG			main(UWORD argc, TCHAR** argv);
 BOOL			SetupHost(ULONG flags);
 void			ResetHost(void);
-//void            TraceText(CBYTE *error, ...);
+//void            TraceText(const CBYTE *error, ...);
 void            TraceText(const CBYTE *error, ...);
 BOOL			LibShellActive(void);
 BOOL			LibShellChanged(void);
