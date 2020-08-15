@@ -1,6 +1,9 @@
 // Camera.h
 // Guy Simmons, 5th December 1997.
 
+#include <structs.h>
+#include <thing.h>
+
 #ifndef	CAMERA_H
 #define	CAMERA_H
 
