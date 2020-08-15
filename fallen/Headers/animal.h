@@ -89,7 +89,8 @@ Animal   *ANIMAL_get_animal  (Thing *animal_thing);
 //
 
 GameCoord GetChunkCentre(GameKeyFrameChunk *chunk);
-SetChunkCentre(GameKeyFrameChunk *chunk, GameCoord centre);
+//TODO Throws an error: expected constructor, destructor, or type conversion before ';' token. almost unused - "animal.h" included in "game.h", but UC doesn't have any animals. 
+//SetChunkCentre(GameKeyFrameChunk *chunk, GameCoord centre);
 
 
 #endif
