@@ -78,7 +78,7 @@ volatile UBYTE	Keys[256],
 SVector_F AENG_dx_prim_points[10];
 
 /*
-void	DebugText(CBYTE *error, ...)
+void	DebugText(const CBYTE *error, ...)
 {
 }
 

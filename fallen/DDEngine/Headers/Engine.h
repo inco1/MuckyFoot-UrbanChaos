@@ -12,7 +12,7 @@
 #include	"Message.h"
 #include	<math.h>
 
-void		DebugText(CBYTE *error, ...);
+void		DebugText(const CBYTE *error, ...);
 
 
 //

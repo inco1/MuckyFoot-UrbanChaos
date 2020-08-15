@@ -151,7 +151,7 @@ BOOL			LibShellMessage(const char *pMessage, const char *pFile, ULONG dwLine);
 
 #ifndef NDEBUG
 
-void			DebugText(CBYTE *error, ...);
+void			DebugText(const CBYTE *error, ...);
 #define TRACE				TraceText
 #define	LogText				DebugText
 #define	MFMessage			LibShellMessage
